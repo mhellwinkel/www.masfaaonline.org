@@ -1,0 +1,33 @@
+---
+layout: page
+title: Member Listing
+permalink: members/index.html
+---
+
+<p>
+Below is a list of all current participating members.
+</p>
+<table  class="table">
+  <tr>
+    <th>Name</th>
+    <th>Phone</th>
+    <th>Institution</th>
+    <th>Member Since</th>     
+  </tr>
+  {% for mem  in site.data.members %}
+    <tr>
+      <td>	
+	    {{ mem.name }}
+	  </td>
+      <td>
+	    {{ mem.phone }}
+      </td>
+	  <td>
+        {{ mem.institution }}
+      </td>
+	  <td>
+	    {{ mem.membersince }}
+      </td>
+    </tr>	
+  {% endfor %}
+</table>

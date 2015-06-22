@@ -1,0 +1,20 @@
+---
+layout: page
+title: Institution Listing
+permalink: institutions/index.html
+---
+
+<table class="table">
+  <tbody>
+  {% for inst  in site.data.institutions %}
+	<tr>
+        <td>	
+	  <a href="{{ inst.link }}" target="_blank"> {{ inst.name }} </a>
+	</td>
+        <td>
+	  {{ inst.phone }}
+        </td>
+        </tr>	
+  {% endfor %}
+  </tbody>
+</table>
