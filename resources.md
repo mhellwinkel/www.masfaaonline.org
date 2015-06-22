@@ -29,7 +29,7 @@ To learn more about NT4CM please visit: [http://financialaidtoolkit.ed.gov/tk/tr
 
 To see what trainings are upcoming and/or to sign up for a training please [click here](http://www.cvent.com/events/2014-national-training-for-counselors-and-mentors-nt4cm-/archived-3d983593a5b148b4b30a9e9475fdb851.aspx).
 
-[![top](/assets/images/up.gif)](#top)
+[![top](../assets/images/up.gif)](#top)
 
 <a id="blog"></a>
 
@@ -45,7 +45,7 @@ My name is Laurie Rodriguez from Carroll College (Helena, MT) and I am the Chair
 
 If you haven't already, I encourage you to subscribe to the [Exchange Blog](https://rmasfaa.wordpress.com) to **receive up-to-date information about all things RMASFAA. Subscribing is easy, just following the link** [http://rmasfaa.wordpress.com](https://rmasfaa.wordpress.com), **on the right hand side, about a third of the way down you'll see the words EMAIL SUBSCRIPTION**. Simply, enter your email address and click "sign me up" to subscribe to the blog to receive notifications of new posts by email. **In addition**, should you have any blog ideas or newsworthy information to share, please feel free to contact me. I can be reached via phone 406-447-5427 or email [lrodriguez@carroll.edu](mailto:lrodriguez@carroll.edu).
 
-[![top](/assets/images/up.gif)](#top)
+[![top](../assets/images/up.gif)](#top)
 
 <a id="resourcesa"></a>
 
@@ -68,4 +68,4 @@ If you haven't already, I encourage you to subscribe to the [Exchange Blog](http
 *   [Mapping Your Future](https://www.mappingyourfuture.org/)
 *   [IFAP](http://www.ifap.ed.gov/ifap/index.jsp)
 
-[![top](/assets/images/up.gif)](#top)
+[![top](../assets/images/up.gif)](#top)
