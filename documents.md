@@ -34,7 +34,7 @@ The name of the corporation is the **Montana Association of Student Financial Ai
 
   Section 2\. The Association may have such other office or offices at such suitable place or places within the State of Montana as may be designated from time to time by the Board of Directors of the Corporation hereafter known as the Executive Board.
 
-[![](assets/images/up.gif)](#top)
+[![](../assets/images/up.gif)](#top)
 
 <a id="article3"></a>
 
