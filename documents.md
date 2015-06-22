@@ -24,7 +24,7 @@ permalink: documents/index.html
 
 The name of the corporation is the **Montana Association of Student Financial Aid Administrators**. It may hereafter be referred to in these bylaws as **the Association**.
 
-[![](/assets/images/up.gif)](#top)
+[![](assets/images/up.gif)](#top)
 
 <a id="article2"></a>
 
@@ -34,7 +34,7 @@ The name of the corporation is the **Montana Association of Student Financial Ai
 
   Section 2\. The Association may have such other office or offices at such suitable place or places within the State of Montana as may be designated from time to time by the Board of Directors of the Corporation hereafter known as the Executive Board.
 
-[![](/assets/images/up.gif)](#top)
+[![](assets/images/up.gif)](#top)
 
 <a id="article3"></a>
 
@@ -55,7 +55,7 @@ The purpose of which the Corporation is organized, subject to the limitations of
 5.  Facilitate communication between educational institutions and sponsors of student aid funds.
 6.  Promote such systematic studies, cooperative experiments, conferences and other related activities as may be desirable or necessary to fulfill the purposes of the corporation.
 
-[![](/assets/images/up.gif)](#top)
+[![](assets/images/up.gif)](#top)
 
 <a id="article4"></a>
 
@@ -80,7 +80,7 @@ Section 2: Each institutional member in good standing shall be entitled to the n
   
   Section 4: Any member or organization member of the Association may be dropped from membership by action of the Executive Board for non-payment of dues or for other just causes after being afforded the opportunity to be heard.
 
-[![](/assets/images/up.gif)](#top)
+[![](assets/images/up.gif)](#top)
 
 <a id="article5"></a>
 
@@ -93,7 +93,7 @@ Section 2: Each institutional member in good standing shall be entitled to the n
 1.  President, President-Elect, Vice President/Secretary, Immediate Past President, Treasurer and two (2) Executive Members-at-Large. All members of the Executive Board must be active members of the Association at the time of nomination and throughout their term in office. The Executive Board is authorized to establish an office and to employ an Executive Secretary to whom the Executive Board may assign duties and functions as it deems necessary.
 2.  Decisions within the Executive Board shall be made by simple majority vote of the members present and voting.
 
-[![](/assets/images/up.gif)](#top)
+[![](assets/images/up.gif)](#top)
 
 <a id="article6"></a>
 
@@ -117,7 +117,7 @@ Section 2: Each institutional member in good standing shall be entitled to the n
   
   Section 9: None of the elected officers or the immediate Past-President of the Association shall receive any compensation for their services as such to the Association. Any necessary travel expenses of any individual active member to represent the Association may be paid from Association funds by approval of the Executive Board.
 
-[![](/assets/images/up.gif)](#top)
+[![](assets/images/up.gif)](#top)
 
 <a id="article7"></a>
 
