@@ -24,7 +24,7 @@ permalink: documents/index.html
 
 The name of the corporation is the **Montana Association of Student Financial Aid Administrators**. It may hereafter be referred to in these bylaws as **the Association**.
 
-[![](assets/images/up.gif)](#top)
+[![](../assets/images/up.gif)](#top)
 
 <a id="article2"></a>
 
