@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-permalink: resources/index.html
+description: Resources
 ---
 [NT4CM](#nt4cma) • [RAMSFAA Blog](#blog) • [Resources](#resourcesa)
 

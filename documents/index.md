@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Documents
-permalink: documents/index.html
+description: Documents
 ---
 
 [Bylaws](#bylaws) • [Policies](#policies) • [History](#historya) • [Resources](#resourcesa) • [Minutes](#minutesa)
