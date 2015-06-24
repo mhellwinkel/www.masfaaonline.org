@@ -2,6 +2,8 @@
 layout: page
 title: Governance
 description: Governance Information
+redirect_from:
+  - /governance.jsp
 ---
 
 **President** | Kelli Engelhardt | University of Great Falls

@@ -8,6 +8,7 @@ title: "MASFAA"
 gems:
   - jemoji
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 exclude:
   - "README.md"

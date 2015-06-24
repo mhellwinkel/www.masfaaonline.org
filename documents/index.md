@@ -2,6 +2,12 @@
 layout: page 
 title: Documents
 description: Documents
+redirect_from:
+  - /bylaws.jsp
+  - /policies-procedures.jsp
+  - /history.jsp
+  - /resources.jsp
+  - /minutes.jsp
 ---
 
 [Bylaws](#bylaws) • [Policies](#policies) • [History](#historya) • [Resources](#resourcesa) • [Minutes](#minutesa)
@@ -137,7 +143,7 @@ Section 2: Each institutional member in good standing shall be entitled to the n
   
   Section 7: There will be two (2) Executive Members-at-Large who shall perform such duties as are assigned to them by the President and/or Executive Board.
 
-[![](/assets/images/up.gif)](#top)
+[![](../assets/images/up.gif)](#top)
 
 <a id="article8"></a>
 
@@ -149,7 +155,7 @@ Section 2: Each institutional member in good standing shall be entitled to the n
   
   Section 3: The President shall be an ex-officio member of all committees.
 
-[![](/assets/images/up.gif)](#top)
+[![](../assets/images/up.gif)](#top)
 
 <a id="article9"></a>
 
@@ -166,7 +172,7 @@ Section 2: Each institutional member in good standing shall be entitled to the n
   
   Section 3: If any meeting of the Association be adjourned to another time and place no notice as to such adjourned meeting need be given other than announcement at the meeting at which such adjournment is taken.
 
-[![](/assets/images/up.gif)](#top)
+[![](../assets/images/up.gif)](#top)
 
 <a id="article10"></a>
 
@@ -190,7 +196,7 @@ Section 2: Each institutional member in good standing shall be entitled to the n
   
   Section 6: The books of the Association shall be audited at a minimum at the conclusion of each Secretary/Treasurer's term in office in a manner prescribed by the Executive Board.
 
-[![](/assets/images/up.gif)](#top)
+[![](../assets/images/up.gif)](#top)
 
 <a id="article11"></a>
 
@@ -207,7 +213,7 @@ Section 2: Each institutional member in good standing shall be entitled to the n
   Section 5: Mick Hanson Professional Development Scholarship: When funds are available, this $500 scholarship will be awarded to a mentee or mentor who has been accepted into the RMASFAA Leadership Pipeline. Recipients of the scholarship are required to be a MASFAA and a RMASFAA member. This scholarship will be used to help offset costs related to the RMASFAA Fall Conference (conference fee, lodging, and travel expenses). Selection of the recipient will reside with the MASFAA Executive Board.
   All members, both institutional and associate, are eligible for these awards. Awards would be given at the annual conference.
 
-[![](/assets/images/up.gif)](#top)
+[![](../assets/images/up.gif)](#top)
 
 <a id="article12"></a>
 
@@ -215,7 +221,7 @@ Section 2: Each institutional member in good standing shall be entitled to the n
 
   Section 1: The rules contained in the most recent edition of Robert's Rules of Order shall govern the Association in all cases to which they are applicable and in which they are not inconsistent with the Articles of Incorporation, these By-Laws, and any special rules of order the Association may adopt.
 
-[![](/assets/images/up.gif)](#top)
+[![](../assets/images/up.gif)](#top)
 
 <a id="article13"></a>
 
@@ -233,7 +239,7 @@ Revised By-Laws Approved on 5/11/2009 by 2/3 majority e-mail vote.
 
 Revised By-Laws Approved on 4/16/2010 by a 2/3 majority vote at Business Meeting
 
-[![](/assets/images/up.gif)](#top)
+[![](../assets/images/up.gif)](#top)
 
 <a id="policies"></a>
 
@@ -382,7 +388,7 @@ MASFAA exists primarily to promote the professional preparation, effectiveness, 
   Encourage open discussion of relevant ideas, keeping in mind service to students and the financial aid community;
   Provide an organizational structure that allows for positive response to the needs of organization membership.
 
-[![](/assets/images/up.gif)](#policies)
+[![](../assets/images/up.gif)](#policies)
 
 <a id="part2"></a>
 
@@ -683,7 +689,7 @@ The two Executive Members-At-Large are elected for two year terms in alternating
 
 
 
-[![](/assets/images/up.gif)](#policies)
+[![](../assets/images/up.gif)](#policies)
 
 <a id="part3"></a>
 
@@ -729,7 +735,7 @@ As needed, the President can establish ad hoc committees. These committees shoul
 
 
 
-[![](/assets/images/up.gif)](#policies)
+[![](../assets/images/up.gif)](#policies)
 
 <a id="part4"></a>
 
@@ -789,7 +795,7 @@ Any equipment owned by MASFAA shall be tagged as such and included on an invento
 
 
 
-[![](/assets/images/up.gif)](#policies)
+[![](../assets/images/up.gif)](#policies)
 
 <a id="part5"></a>
 
@@ -928,7 +934,7 @@ The Association may have a separate interest-bearing account. This account will 
 All Association checks that are not cashed within 90 days will be considered stale dated. It will be the payee's responsibility to contact the Treasurer for a duplicate to be issued. By declaring a check stale, the Association is not relinquishing its obligation to the payee.
 
 
-[![](/assets/images/up.gif)](#policies)
+[![](../assets/images/up.gif)](#policies)
 
 <a id="part6"></a>
 
@@ -985,17 +991,17 @@ The committee will have two chairs: the President-Elect who is responsible for o
 
 
 
-[![](/assets/images/up.gif)](#policies)
+[![](../assets/images/up.gif)](#policies)
 
 <a id="historya"></a>
 
 ## History
 
-| **MASFAA Awards** | [Download](/assets/documents/downloads/history/MASFAA_Awards.doc) |
-| **MASFAA Past Presidents** | [Download](/assets/documents/downloads/history/MASFAA_Past_Presidents.doc) |
-| **MASFAA Board Members** | [Download](/assets/documents/downloads/history/MASFAA_Board_Members.doc) |
+| **MASFAA Awards** | [Download](../assets/documents/downloads/history/MASFAA_Awards.doc) |
+| **MASFAA Past Presidents** | [Download](../assets/documents/downloads/history/MASFAA_Past_Presidents.doc) |
+| **MASFAA Board Members** | [Download](../assets/documents/downloads/history/MASFAA_Board_Members.doc) |
 
-[![](/assets/images/up.gif)](#top)
+[![](../assets/images/up.gif)](#top)
 
 
 <a id="resourcesa"></a>
@@ -1006,32 +1012,32 @@ The committee will have two chairs: the President-Elect who is responsible for o
 
 | Name | Flash | PDF | Word | PowerPoint |
 | ---  | ---   | --- | ---  | --- |
-| Communicating with 21st Century Students | | [Download](/assets/documents/downloads/document_list/Communicating-with-21st-Century-Students.pdf) |||
-| Communicating with 21st Century Students (Resources) | | [Download](/assets/documents/downloads/document_list/Communicating-with-21st-Century-Students-Resources.pdf) |||
-| April 2015 NASFAA Federal Update | | | |[Download](/assets/documents/downloads/document_list/NASFAA-Federal-Update-April.pptx) |
-| President's Project 2014-2015 | | [Download](/assets/documents/downloads/document_list/tribal-college-outreach-presidents-project.pdf) |||
-| Default Prevention Student Survey | | [Download](/assets/documents/downloads/document_list/Default-Prevention-Student-Survey.pdf) | [Download](/assets/documents/downloads/document_list/student_survey.doc) ||
-| MASFAA Letterhead #1 | | [Download](/assets/documents/downloads/document_list/MASFAA_Letterhead_1.pdf) | [Download](/assets/documents/downloads/document_list/MASFAA_Letterhead_1.doc) ||
-| MASFAA Letterhead #2 | | [Download](/assets/documents/downloads/document_list/MASFAA_Letterhead_2.pdf) | [Download](/assets/documents/downloads/document_list/MASFAA_Letterhead_2.docx) ||
-| MASFAA Letterhead #3 (watermark)| | [Download](/assets/documents/downloads/document_list/MASFAA_Watermark.pdf) | [Download](/assets/documents/downloads/document_list/MASFAA_Watermark.docx) ||
-| New MASFAA Letterhead #4 | [Download](/assets/documents/downloads/document_list/MASFAA_Letterhead_4.swf) ||||
-| MASFAA Minority Scholarship Application for RMASFAA Summer Institute | | [Download](/assets/documents/downloads/document_list/masfaaminorityscholarship.pdf) | [Download](/assets/documents/downloads/document_list/MASFAA-Minority-Scholarship-Application.doc) ||
-| MASFAA Electronic Discussion Group | | [Download](/assets/documents/downloads/document_list/MASFAAlistserv.pdf) | [Download](/assets/documents/downloads/document_list/Masfaa-Listserv.doc) ||
-| 2015 Associate Membership Application| | | [Download](/assets/documents/downloads/document_list/2015-associate-membership-application.doc) ||
-| 2015 Corporate Support Agreement | | | [Download](/assets/documents/downloads/document_list/masfaa-corporate-support-agreement-2015.docx) ||
-| 2015 Institutional Membership Application | | | [Download](/assets/documents/downloads/document_list/2015-institutional-membership-application.doc) ||
-| MASFAA Expense Reimbursement Form | | | [Download](/assets/documents/downloads/document_list/Expense-Reimbursement-Form.docx) ||
-| MASFAA Hot Topics Spring 2013 | | [Download](/assets/documents/downloads/document_list/MASFAA-Hot-Topics-Spring-2013-for-Web-Posting.pdf) |||
-| 2015-2016 MASFAA Presentation | | | | [Download](/assets/documents/downloads/document_list/masfaa-2015-2016.pptx) |
-| 2015-2016 Additional Slides for Financial Aid Nights Comprehensive| | | | [Download](/assets/documents/downloads/document_list/masfaa-2015-2016-additional.pptx) |
+| Communicating with 21st Century Students | | [Download](../assets/documents/downloads/document_list/Communicating-with-21st-Century-Students.pdf) |||
+| Communicating with 21st Century Students (Resources) | | [Download](../assets/documents/downloads/document_list/Communicating-with-21st-Century-Students-Resources.pdf) |||
+| April 2015 NASFAA Federal Update | | | |[Download](../assets/documents/downloads/document_list/NASFAA-Federal-Update-April.pptx) |
+| President's Project 2014-2015 | | [Download](../assets/documents/downloads/document_list/tribal-college-outreach-presidents-project.pdf) |||
+| Default Prevention Student Survey | | [Download](../assets/documents/downloads/document_list/Default-Prevention-Student-Survey.pdf) | [Download](../assets/documents/downloads/document_list/student_survey.doc) ||
+| MASFAA Letterhead #1 | | [Download](../assets/documents/downloads/document_list/MASFAA_Letterhead_1.pdf) | [Download](../assets/documents/downloads/document_list/MASFAA_Letterhead_1.doc) ||
+| MASFAA Letterhead #2 | | [Download](../assets/documents/downloads/document_list/MASFAA_Letterhead_2.pdf) | [Download](../assets/documents/downloads/document_list/MASFAA_Letterhead_2.docx) ||
+| MASFAA Letterhead #3 (watermark)| | [Download](../assets/documents/downloads/document_list/MASFAA_Watermark.pdf) | [Download](../assets/documents/downloads/document_list/MASFAA_Watermark.docx) ||
+| New MASFAA Letterhead #4 | [Download](../assets/documents/downloads/document_list/MASFAA_Letterhead_4.swf) ||||
+| MASFAA Minority Scholarship Application for RMASFAA Summer Institute | | [Download](../assets/documents/downloads/document_list/masfaaminorityscholarship.pdf) | [Download](../assets/documents/downloads/document_list/MASFAA-Minority-Scholarship-Application.doc) ||
+| MASFAA Electronic Discussion Group | | [Download](../assets/documents/downloads/document_list/MASFAAlistserv.pdf) | [Download](../assets/documents/downloads/document_list/Masfaa-Listserv.doc) ||
+| 2015 Associate Membership Application| | | [Download](../assets/documents/downloads/document_list/2015-associate-membership-application.doc) ||
+| 2015 Corporate Support Agreement | | | [Download](../assets/documents/downloads/document_list/masfaa-corporate-support-agreement-2015.docx) ||
+| 2015 Institutional Membership Application | | | [Download](../assets/documents/downloads/document_list/2015-institutional-membership-application.doc) ||
+| MASFAA Expense Reimbursement Form | | | [Download](../assets/documents/downloads/document_list/Expense-Reimbursement-Form.docx) ||
+| MASFAA Hot Topics Spring 2013 | | [Download](../assets/documents/downloads/document_list/MASFAA-Hot-Topics-Spring-2013-for-Web-Posting.pdf) |||
+| 2015-2016 MASFAA Presentation | | | | [Download](../assets/documents/downloads/document_list/masfaa-2015-2016.pptx) |
+| 2015-2016 Additional Slides for Financial Aid Nights Comprehensive| | | | [Download](../assets/documents/downloads/document_list/masfaa-2015-2016-additional.pptx) |
 | Montana University System-Financial Literacy Program Presentation 
- *MASFAA Conference 2013 | | | | [Download](/assets/documents/downloads/document_list/MUS-Financial-Literacy-Program-MASFAA-Conf-Presentation-2013.ppt) |
+ *MASFAA Conference 2013 | | | | [Download](../assets/documents/downloads/document_list/MUS-Financial-Literacy-Program-MASFAA-Conf-Presentation-2013.ppt) |
 | Montana University System-Student Financial Services Presentation
-*MASFAA Conference 2013| | | |[Download](/assets/documents/downloads/document_list/MUS-Student-Fin-Services-MASFAA-Conf-Pres-2013.ppt) |
+*MASFAA Conference 2013| | | |[Download](../assets/documents/downloads/document_list/MUS-Student-Fin-Services-MASFAA-Conf-Pres-2013.ppt) |
 | R2T4 |||||
-| Academic Recovery Form| | | [Download](/assets/documents/downloads/document_list/Academic-Recovery-Plan-form-F.doc) ||
+| Academic Recovery Form| | | [Download](../assets/documents/downloads/document_list/Academic-Recovery-Plan-form-F.doc) ||
 
-[![](/assets/images/up.gif)](#top)
+[![](../assets/images/up.gif)](#top)
 
 ### Professional Organizations
 
@@ -1050,7 +1056,7 @@ The committee will have two chairs: the President-Elect who is responsible for o
   [Mapping Your Future](https://www.mappingyourfuture.org/)
   [IFAP](http://www.ifap.ed.gov/ifap/index.jsp)
 
-[![](/assets/images/up.gif)](#top)
+[![](../assets/images/up.gif)](#top)
 
 <a id="minutesa"></a>
 
@@ -1059,21 +1065,21 @@ The committee will have two chairs: the President-Elect who is responsible for o
 Here you can access the minutes from any of the listed meetings. As new meetings occur, we will add new minutes to the listing.
 
 | **Meeting** | **PDF** | **WORD** |
-| Business Meeting April, 2015 | | [Download](/assets/documents/downloads/minutes/4-25-14-masfaa-business-meeting%20notes.docx) |
-| Board Meeting April, 2015 | | [Download](/assets/documents/downloads/minutes/4-23-14-masfaa-board-meeting%20minutes.docx) |
-| Board Meeting November, 2013 | | [Download](/assets/documents/downloads/minutes/nov1masfaa-board-meeting.docx) |
-| Board Meeting July, 2013 | | [Download](/assets/documents/downloads/minutes/july25masfaa-board-meeting.docx) |
-| Business Meeting April, 2013 | | [Download](/assets/documents/downloads/minutes/masfaa-2013-business-meeting-minutes-2.doc)|
-| Board Meeting April, 2013 | | [Download](/assets/documents/downloads/minutes/april-17-masfaa-board-meeting.doc) |
-| Board Meeting October, 2012 | | [Download](/assets/documents/downloads/minutes/masfaa-board-meeting-minutes-october-2012.doc) |
-| Board Meeting June, 2012 | | [Download](/assets/documents/downloads/minutes/MASFAA%20Board%20Meeting%20June%202012%20Minutes.docx) |
-| Business Meeting April 20, 2012 | | [Download](/assets/documents/downloads/minutes/MASFAA%20Business%20Meeting%204_20_2012.doc) |
-| Board Meeting April 17, 2012 | | [Download](/assets/documents/downloads/minutes/MASFAA%20Board%20Meeting%204_17_2012.doc) |
-| Board Meeting April, 2011 | | [Download](/assets/documents/downloads/minutes/masfaa-april-2011-business-meeting-minutes.doc) |
-| Business Minutes April 4, 2008 | | [Download](/assets/documents/downloads/minutes/MASFAA_Business_Meeting_42008.doc) |
-| Business Meetings November 5, 1999 | [Download](/assets/documents/downloads/minutes/MASFAA1199.pdf) | [Download](/assets/documents/downloads/minutes/MASFAA1199.doc) |
-| Business Meeting April 11, 2003 | | [Download](/assets/documents/downloads/minutes/MASFAA_spring_03_Business_Meeting.doc) |
-| Business Meeting Minutes April 16, 2004 | | [Download](/assets/documents/downloads/minutes/MASFAA_Business_Meeting_4_16_04.doc) |
-| Draft Business Meeting Minutes April 22, 2005 | | [Download](/assets/documents/downloads/minutes/masfaa_business_meeting_4_05.doc) |
+| Business Meeting April, 2015 | | [Download](../assets/documents/downloads/minutes/4-25-14-masfaa-business-meeting%20notes.docx) |
+| Board Meeting April, 2015 | | [Download](../assets/documents/downloads/minutes/4-23-14-masfaa-board-meeting%20minutes.docx) |
+| Board Meeting November, 2013 | | [Download](../assets/documents/downloads/minutes/nov1masfaa-board-meeting.docx) |
+| Board Meeting July, 2013 | | [Download](../assets/documents/downloads/minutes/july25masfaa-board-meeting.docx) |
+| Business Meeting April, 2013 | | [Download](../assets/documents/downloads/minutes/masfaa-2013-business-meeting-minutes-2.doc)|
+| Board Meeting April, 2013 | | [Download](../assets/documents/downloads/minutes/april-17-masfaa-board-meeting.doc) |
+| Board Meeting October, 2012 | | [Download](../assets/documents/downloads/minutes/masfaa-board-meeting-minutes-october-2012.doc) |
+| Board Meeting June, 2012 | | [Download](../assets/documents/downloads/minutes/MASFAA%20Board%20Meeting%20June%202012%20Minutes.docx) |
+| Business Meeting April 20, 2012 | | [Download](../assets/documents/downloads/minutes/MASFAA%20Business%20Meeting%204_20_2012.doc) |
+| Board Meeting April 17, 2012 | | [Download](../assets/documents/downloads/minutes/MASFAA%20Board%20Meeting%204_17_2012.doc) |
+| Board Meeting April, 2011 | | [Download](../assets/documents/downloads/minutes/masfaa-april-2011-business-meeting-minutes.doc) |
+| Business Minutes April 4, 2008 | | [Download](../assets/documents/downloads/minutes/MASFAA_Business_Meeting_42008.doc) |
+| Business Meetings November 5, 1999 | [Download](../assets/documents/downloads/minutes/MASFAA1199.pdf) | [Download](../assets/documents/downloads/minutes/MASFAA1199.doc) |
+| Business Meeting April 11, 2003 | | [Download](../assets/documents/downloads/minutes/MASFAA_spring_03_Business_Meeting.doc) |
+| Business Meeting Minutes April 16, 2004 | | [Download](../assets/documents/downloads/minutes/MASFAA_Business_Meeting_4_16_04.doc) |
+| Draft Business Meeting Minutes April 22, 2005 | | [Download](../assets/documents/downloads/minutes/masfaa_business_meeting_4_05.doc) |
 
-[![](/assets/images/up.gif)](#top)
+[![](../assets/images/up.gif)](#top)
