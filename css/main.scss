@@ -1,0 +1,24 @@
+---
+# site specific css
+---
+#logo {
+  height: 155px;
+  padding-top: 40px;
+  background: {
+    image: url('/images/header-mtns.gif');
+    repeat: no-repeat;
+    position: left top;
+    color: #00AEF0;
+  }
+  a {
+    color: white !important;
+    text-decoration: none;
+  }
+  h1, h2 {
+    margin: 0;
+  }
+}
+
+#navbar {
+  font-family: 'Montserrat', sans-serif;
+}

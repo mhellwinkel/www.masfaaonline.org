@@ -1,0 +1,22 @@
+---
+# modify bootstrap variables here
+---
+
+$navbar-inverse-bg: #005826;
+$navbar-inverse-link-hover-bg: #007947;
+$navbar-inverse-link-active-bg: #003D1B;
+$navbar-inverse-link-color: white;
+$navbar-inverse-toggle-hover-bg: rgba(#fff, 0.2);
+$navbar-inverse-toggle-icon-bar-bg: #fff;
+$navbar-inverse-toggle-border-color: #fff;
+
+$headings-font-family: 'Montserrat', sans-serif;
+
+$icon-font-path: "/{{ site.bootstrap-sass }}/assets/fonts/bootstrap/";
+
+@import "bootstrap";
+
+table {
+  @extend .table;
+  @extend .table-bordered;
+}
