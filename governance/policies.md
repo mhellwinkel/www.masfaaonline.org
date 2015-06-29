@@ -2,8 +2,6 @@
 layout: base
 title: Policy and Procedures
 description: MASFAA Policy and Procedures
-redirect_from:
-  - /policies-procedures.jsp
 ---
 
 * Will be replaced with the toc

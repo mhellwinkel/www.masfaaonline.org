@@ -2,10 +2,6 @@
 layout: base
 title: Resources
 description: Resources
-redirect_from:
-  - /nt4cm.jsp
-  - /rmasfaa-blog.jsp
-  - /resources.jsp
 ---
 
 # NT4CM

@@ -2,8 +2,6 @@
 layout: base
 title: Governance
 description: Governance information for MASFAA
-redirect_from:
-  - /governance.jsp
 ---
 
 ## Documents

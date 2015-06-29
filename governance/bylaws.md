@@ -2,8 +2,6 @@
 layout: base
 title: By-Laws
 description: By-Laws
-redirect_from:
-  - /bylaws.jsp
 ---
 
 * Will be replaced with the toc

@@ -2,11 +2,6 @@
 layout: base
 title: Documents
 description: Documents
-redirect_from:
-  - /bylaws.jsp
-  - /policies-procedures.jsp
-  - /history.jsp
-  - /minutes.jsp
 ---
 
 ## Files
