@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 title: Member Listing
 description: Member Listing
 redirect_from:
@@ -7,29 +7,22 @@ redirect_from:
 ---
 
 <p>
-Below is a list of all current participating members.
+  Below is a list of all current participating members.
 </p>
-<table  class="table">
+
+<table class="table table-striped">
   <tr>
     <th>Name</th>
     <th>Phone</th>
     <th>Institution</th>
-    <th>Member Since</th>     
+    <th>Member Since</th>
   </tr>
-  {% for mem  in site.data.members %}
+  {% for mem in site.data.members %}
     <tr>
-      <td>	
-	    {{ mem.name }}
-	  </td>
-      <td>
-	    {{ mem.phone }}
-      </td>
-	  <td>
-        {{ mem.institution }}
-      </td>
-	  <td>
-	    {{ mem.membersince }}
-      </td>
-    </tr>	
+      <td>{{ mem.name }}</td>
+      <td>{{ mem.phone }}</td>
+      <td>{{ mem.institution }}</td>
+      <td>{{ mem.membersince }}</td>
+    </tr> 
   {% endfor %}
 </table>
