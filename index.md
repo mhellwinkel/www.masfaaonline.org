@@ -30,39 +30,37 @@ Check back later for more information.
       </p>
     </div>
     <div class="col-md-6 text-center">
-      <h4 class="prepend-top" style="padding-top:0px;margin-top:0px;">Supporting These Schools:</h4>
-      <div id="slides" class="text-center" >
-        <div class="item"><img class="img-responsive center-block" src="/images/rotate/AcademyLogo.jpg" alt="Academy Logo" /></div>
-        <div class="item"><img class="img-responsive center-block" src="/images/rotate/carrollCollege.jpg" alt="Carroll College"/></div>
-        <div class="item"><img class="img-responsive center-block" src="/images/rotate/Chief_Dull_Knife_College_logo.jpg" alt="Chief Dull Knife College"/></div>
-        <div class="item"><img class="img-responsive center-block" src="/images/rotate/Dawson-CC.gif" alt="Dawson CC"/></div>
-        <div class="item"><img class="img-responsive center-block" src="/images/rotate/FVCC.jpg" alt="FVCC"/></div>
-        <div class="item"><img class="img-responsive center-block" src="/images/rotate/MCAN.png" alt="MCAN"/></div>
-        <div class="item"><img class="img-responsive center-block" src="/images/rotate/MSU-Billings.gif" alt="MSU Billings"/></div>
-        <div class="item"><img class="img-responsive center-block" src="/images/rotate/MSU-Bozeman.gif" alt="MSU Bozeman"/></div>
-        <div class="item"><img class="img-responsive center-block" src="/images/rotate/MSU-GF.jpg" alt="MSU GF"/></div>
-        <div class="item"><img class="img-responsive center-block" src="/images/rotate/MSU-N.gif" alt="MSU Northern"/></div>
-        <div class="item"><img class="img-responsive center-block" src="/images/rotate/MT-Tech.gif" alt="MT Tech"/></div>
-        <div class="item"><img class="img-responsive center-block" src="/images/rotate/MilesCC.jpg" alt="Miles CC"/></div>
-        <div class="item"><img class="img-responsive center-block" src="/images/rotate/RockyMountainCollege.jpg" alt="Rocky Mountain College"/></div>
-        <div class="item"><img class="img-responsive center-block" src="/images/rotate/UGF.jpg" alt="UGF"/></div>
-        <div class="item"><img class="img-responsive center-block" src="/images/rotate/UM-Missoula.gif" alt="UM Missoula"/></div>
-        <div class="item"><img class="img-responsive center-block" src="/images/rotate/UM-Western.gif" alt="UM Western"/></div>
-        <div class="item"><img class="img-responsive center-block" src="/images/rotate/healthworks.gif" alt="Health Works"/></div>
-      </div>
+
+      <h4>Supporting These Schools:</h4>
+
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+        <div class="carousel-inner" role="listbox">
+          <div class="item active"><img class="img-responsive center-block" src="/images/rotate/AcademyLogo.jpg" alt="Academy Logo" /></div>
+          <div class="item"><img class="img-responsive center-block" src="/images/rotate/carrollCollege.jpg" alt="Carroll College"/></div>
+          <div class="item"><img class="img-responsive center-block" src="/images/rotate/Chief_Dull_Knife_College_logo.jpg" alt="Chief Dull Knife College"/></div>
+          <div class="item"><img class="img-responsive center-block" src="/images/rotate/Dawson-CC.gif" alt="Dawson CC"/></div>
+          <div class="item"><img class="img-responsive center-block" src="/images/rotate/FVCC.jpg" alt="FVCC"/></div>
+          <div class="item"><img class="img-responsive center-block" src="/images/rotate/MCAN.png" alt="MCAN"/></div>
+          <div class="item"><img class="img-responsive center-block" src="/images/rotate/MSU-Billings.gif" alt="MSU Billings"/></div>
+          <div class="item"><img class="img-responsive center-block" src="/images/rotate/MSU-Bozeman.gif" alt="MSU Bozeman"/></div>
+          <div class="item"><img class="img-responsive center-block" src="/images/rotate/MSU-GF.jpg" alt="MSU GF"/></div>
+          <div class="item"><img class="img-responsive center-block" src="/images/rotate/MSU-N.gif" alt="MSU Northern"/></div>
+          <div class="item"><img class="img-responsive center-block" src="/images/rotate/MT-Tech.gif" alt="MT Tech"/></div>
+          <div class="item"><img class="img-responsive center-block" src="/images/rotate/MilesCC.jpg" alt="Miles CC"/></div>
+          <div class="item"><img class="img-responsive center-block" src="/images/rotate/RockyMountainCollege.jpg" alt="Rocky Mountain College"/></div>
+          <div class="item"><img class="img-responsive center-block" src="/images/rotate/UGF.jpg" alt="UGF"/></div>
+          <div class="item"><img class="img-responsive center-block" src="/images/rotate/UM-Missoula.gif" alt="UM Missoula"/></div>
+          <div class="item"><img class="img-responsive center-block" src="/images/rotate/UM-Western.gif" alt="UM Western"/></div>
+          <div class="item"><img class="img-responsive center-block" src="/images/rotate/healthworks.gif" alt="Health Works"/></div>
+        </div>
+
     </div>
   </div>
 </div>
 
-<script src="{{ "/assets/owl-carousel/owl.carousel.min.js" | prepend:site.baseurl }}"></script>
 <script>
-$(document).ready(function() {
-  $("#slides").owlCarousel({
-      autoPlay: 3000, //Set AutoPlay to 3 seconds
-      items : 1,
-      navigation: false,
-      singleItem: true,
-      pagination: false
-  });
-});
+  $(".carousel").carousel({
+    interval: 2000
+  })
 </script>
