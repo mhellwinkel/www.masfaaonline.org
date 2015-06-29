@@ -10,6 +10,11 @@
     position: left top;
     color: #00AEF0;
   }
+  @media screen and (max-width: 767px) {
+    height: 95px;
+    padding-top: 30px;
+    background-position: left -60px;
+  }
   a {
     color: white !important;
     text-decoration: none;
