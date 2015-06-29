@@ -13,9 +13,13 @@ exclude:
   - "CNAME"
   - "Gemfile"
   - "Gemfile.lock"
+  - ".vagrant"
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  toc_levels: "2"
 
 # modify version numbers below when upgrading bootstrap
 # only the assets directory is needed from the bootstrap-sass download
