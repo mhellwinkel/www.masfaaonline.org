@@ -6,6 +6,13 @@ redirect_from:
   - /governance.jsp
 ---
 
+## Documents
+
+* [By-Laws](bylaws.html)
+* [Policies & Procedures](policies.html)
+
+## Executive Board
+
 **President** | Kelli Engelhardt | University of Great Falls
 **President-Elect** | Emily Williamson | Montana State University-Billings
 **Past-President** | Tina Wagner | Carroll College
@@ -14,3 +21,4 @@ redirect_from:
 **Member-at-Large** | Rita Larby |  Montana State University
 **Member-at-Large** | Alexa Freeburg | Health Works Institute
 **Associate Member** | Roxy Jacobson | Bank of North Dakota
+{: .table .table-striped}
