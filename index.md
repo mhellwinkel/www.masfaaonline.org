@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: base
 title: Welcome
-permalink: /index.html
 redirect_from:
   - /index.jsp
   - /calendar.jsp
@@ -13,10 +12,11 @@ In addition, **MASFAA** assists with communications between institutions of post
 
 The Association serves as the State forum and acts as the focus for the expression of views on matters relating to the development, funding and administration of student financial aid at the state, regional and national levels.
 
-
 ## MASFAA 2016 Conference, Billings, April 6-8 
 
-*   Check back for more information.
+Check back later for more information.
+
+---
 
 <div class="col-md-12">
   <div class="row">
@@ -54,3 +54,16 @@ The Association serves as the State forum and acts as the focus for the expressi
   </div>
   </div>
 </div>
+
+<script src="{{ "/assets/owl-carousel/owl.carousel.min.js" | prepend:site.baseurl }}"></script>
+<script>
+$(document).ready(function() {
+  $("#slides").owlCarousel({
+      autoPlay: 3000, //Set AutoPlay to 3 seconds
+      items : 1,
+      navigation: false,
+      singleItem: true,
+      pagination: false
+  });
+});
+</script>
