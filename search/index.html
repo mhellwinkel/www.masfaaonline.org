@@ -1,12 +1,12 @@
 ---
-layout: search 
-title: Site Search
-description: Search
+layout: base 
+title: Search
+description: Search the MASFAA site
 redirect_from:
   - /search.jsp
 ---
 
-<div class="reset-this">
+<div class="reset-box-sizing">
   <script>
     (function() {
       var cx = '014410850701070497970:ybodk2m7ahw';
@@ -14,10 +14,10 @@ redirect_from:
       gcse.type = 'text/javascript';
       gcse.async = true;
       gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-          '//www.google.com/cse/cse.js?cx=' + cx;
+          '//cse.google.com/cse.js?cx=' + cx;
       var s = document.getElementsByTagName('script')[0];
       s.parentNode.insertBefore(gcse, s);
     })();
   </script>
-<gcse:search></gcse:search>
+  <gcse:search></gcse:search>
 </div>

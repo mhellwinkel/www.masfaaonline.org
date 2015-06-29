@@ -22,3 +22,23 @@
 #navbar {
   font-family: 'Montserrat', sans-serif;
 }
+
+/*makes for nice spacing on download page when buttons stack on phones*/
+.btn {
+  margin-top: 5px;
+}
+
+/*and lines up the column widths between all 3 tables*/
+.documents-tables td:nth-child(2) {
+  width: 25%;
+}
+
+/*from http://getbootstrap.com/getting-started/#third-parties*/
+.reset-box-sizing,
+.reset-box-sizing *,
+.reset-box-sizing *:before,
+.reset-box-sizing *:after {
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
