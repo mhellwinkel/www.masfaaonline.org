@@ -6,14 +6,6 @@ description: The Montana Association of Student Financial Aid Administrators (MA
 gems:
   - jekyll-sitemap
 
-exclude:
-  - "README.md"
-  - "CHANGELOG.md"
-  - "CNAME"
-  - "Gemfile"
-  - "Gemfile.lock"
-  - ".vagrant"
-
 # Build settings
 markdown: kramdown
 
