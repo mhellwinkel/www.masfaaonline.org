@@ -1,19 +1,14 @@
-# MASFAA
+# Purpose
 
-## Purpose
+SAF maintains a website for MASFAA, the Montana Association of Student Financial Aid Administration.
 
-SAF hosts a static website for MASFAA, Montana Association of Student Financial Aid Administration.  This site is unnecessarily hosted on a JBoss 7 server.  By moving the content and hosting to GitHub Pages we alleviate ourselves from having to host the site and also provide for easier site updates.  In short, everyone wins!
+# Hosting
 
+Hosted with [Github Pages](https://pages.github.com/) as a [Project Page](https://help.github.com/articles/user-organization-and-project-pages/#project-pages).
 
-## Hosting and DNS
+# DNS
 
-TODO
-
-## History
-
-Initial Github Pages site cloned from [`safmt/ghpages`](https://github.com/safmt/ghpages).
-
-Migration of the current MASFAA website [MASFAA](http://www.masfaaonline.org) .
+Domain name is registered at GoDaddy and all DNS is there. The naked domain, masfaaonline.org, is redirected to www.masfaaonline.org according to [best practices](https://help.github.com/articles/about-custom-domains-for-github-pages-sites/).
 
 # How to Work Locally
 
@@ -24,12 +19,12 @@ Make sure that you have installed:
 
 Clone the repo:
 ```
-> git clone https://github.com/masfaa/masfaa.github.io.git
+> git clone git@github.com:safmt/www.masfaaonline.org.git
 ```
 
 Start up a virtual machine that is ready for Jekyll:
 ```
-> cd masfaa.github.io
+> cd www.masfaaonline.org
 > vagrant up
 > vagrant ssh
 > cd jekyll
@@ -47,4 +42,4 @@ Start Jekyll server:
 
 Edit in the host OS. Find the website at http://192.168.33.10:4000/
 
-Commit changes and push to the master branch to deploy to production.
+Commit changes and push to the gh-pages branch to deploy to production.
