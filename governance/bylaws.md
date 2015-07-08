@@ -2,6 +2,7 @@
 layout: base
 title: By-Laws
 description: By-Laws
+permalink: /governance/bylaws/
 ---
 
 * Will be replaced with the toc
@@ -50,13 +51,13 @@ Section 2: Each institutional member in good standing shall be entitled to the n
 1.  Each institutional member shall be entitled to one voting representative who may be an active individual member representing the institution at any meeting. No vote by proxy will be allowed.
 
 Section 3: Any institution of postsecondary education, system of institutions of postsecondary education or individual active member may appeal in writing to the Executive Board on an individual basis and for just cause for determination of membership status and voting eligibility in the Association.
-  
+
 Section 4: Any member or organization member of the Association may be dropped from membership by action of the Executive Board for non-payment of dues or for other just causes after being afforded the opportunity to be heard.
 
 ## Article V. Executive Board
 
 Section 1: The responsibility for the general conduct of the affairs of the Association between meetings of the membership shall be vested in the Executive Board except for modifying the substance of official action taken by the membership of the Association. The Executive Board in the management of business property and assets of the Association shall be vested with all powers possessed by the Association itself including the power to appoint and remunerate agents and employees in so far as such delegation of authority is not inconsistent with or repugnant to the laws of Montana or any other laws, the Article of Incorporation of the Association or these By-Laws.
-  
+
 Section 2: The Executive Board shall consist of the following:
 
 1.  President, President-Elect, Vice President/Secretary, Immediate Past President, Treasurer and two (2) Executive Members-at-Large. All members of the Executive Board must be active members of the Association at the time of nomination and throughout their term in office. The Executive Board is authorized to establish an office and to employ an Executive Secretary to whom the Executive Board may assign duties and functions as it deems necessary.
