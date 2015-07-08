@@ -60,6 +60,6 @@ Check back later for more information.
 
 <script>
   $(".carousel").carousel({
-    interval: 2000
+    interval: 1500
   })
 </script>
