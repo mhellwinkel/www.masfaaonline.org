@@ -6,8 +6,8 @@ description: Governance information for MASFAA
 
 ## Documents
 
-* [By-Laws](bylaws.html)
-* [Policies & Procedures](policies.html)
+* [By-Laws](bylaws/)
+* [Policies & Procedures](policies/)
 
 ## Executive Board
 
