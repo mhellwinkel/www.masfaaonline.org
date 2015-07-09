@@ -2,6 +2,7 @@
 layout: base
 title: Resources
 description: Resources
+permalink: /resources/
 ---
 
 # NT4CM
