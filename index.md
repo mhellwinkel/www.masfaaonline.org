@@ -11,7 +11,7 @@ In addition, **MASFAA** assists with communications between institutions of post
 
 The Association serves as the State forum and acts as the focus for the expression of views on matters relating to the development, funding and administration of student financial aid at the state, regional and national levels.
 
-## MASFAA 2016 Conference, Billings, April 6-8 
+## MASFAA 2016 Conference, Billings, April 6-8
 
 Check back later for more information.
 
@@ -60,6 +60,6 @@ Check back later for more information.
 
 <script>
   $(".carousel").carousel({
-    interval: 1500
+    interval: 2000
   })
 </script>
