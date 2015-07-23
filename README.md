@@ -22,7 +22,7 @@ Clone the repo:
 > git clone git@github.com:safmt/www.masfaaonline.org.git
 ```
 
-Start up a virtual machine that is ready for Jekyll:
+Start up a virtual machine with Jekyll installed. The machine will take a while to provision on the first start.
 ```
 > cd www.masfaaonline.org
 > vagrant up
@@ -30,14 +30,9 @@ Start up a virtual machine that is ready for Jekyll:
 > cd jekyll
 ```
 
-[Install Jekyll](https://help.github.com/articles/using-jekyll-with-pages/) (first time only):
-```
-> bundle install
-```
-
 Start Jekyll server:
 ```
-> bundle exec jekyll serve --host 0.0.0.0 --force_polling
+> bundle exec jekyll serve --force_polling
 ```
 
 Edit in the host OS. Find the website at http://192.168.33.10:4000/
