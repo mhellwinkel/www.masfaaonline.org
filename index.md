@@ -33,7 +33,7 @@ Check back later for more information.
 
     <div class="col-md-6 text-center">
       <h4>Supporting These Schools:</h4>
-      <div class="carousel slide" data-ride="carousel">
+      <div class="carousel slide" data-ride="carousel" data-interval="2000">
         <div class="carousel-inner" role="listbox">
           <div class="item active"><img class="img-responsive center-block" src="/images/rotate/AcademyLogo.jpg" alt="Academy Logo" /></div>
           <div class="item"><img class="img-responsive center-block" src="/images/rotate/carrollCollege.jpg" alt="Carroll College"/></div>
@@ -57,9 +57,3 @@ Check back later for more information.
 
   </div>
 </div>
-
-<script>
-  $(".carousel").carousel({
-    interval: 2000
-  })
-</script>
