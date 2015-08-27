@@ -19,7 +19,6 @@ Trainers are located across Montana and are trained professionals.
 * Marti Johnson, Student Assistance Foundation Outreach Manger, Helena
 * Jennifer Almli, Student Assistance Foundation Outreach Manager, Miles City
 * Schylar Canfield-Baber, Student Assistance Foundation Outreach Manager, Butte
-* Nolan Glueckert, Student Assistance Foundation Outreach Manager, Bozeman
 
 If you are interested in hosting training please contact Ricki Jones, NT4CM State Coordinator, at [Erica.Jones@umwestern.edu](mailto:Erica.Jones@umwestern.edu) or 406-683-7893\. Please include your name, contact information, site, date/times, and sessions requested. There must be a minimum of 10 participants per training.
 
