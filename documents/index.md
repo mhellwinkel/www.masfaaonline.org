@@ -36,9 +36,9 @@ Montana University System-Financial Literacy Program Presentation (MASFAA Confer
 Montana University System-Student Financial Services Presentation (MASFAA Conference 2013) | [PowerPoint](downloads/files/MUS-Student-Fin-Services-MASFAA-Conf-Pres-2013.ppt){: ppt}
 Academic Recovery Form                                                                     | [Word](downloads/files/Academic-Recovery-Plan-form-F.doc){: word}
 National Training for Counselors and Mentors (NT4CM) 2013-2014 Overview                    | [Word](downloads/files/NT4CM-1314-Overview.docx){: word}
-NT4CM Evaluation Summary for Jan 7, 2014                                                   | [Word](downloads/files/NT4CM-Evaluation-Summary-010714.xlsx){: xslx}
+NT4CM Evaluation Summary for Jan 7, 2014                                                   | [Excel](downloads/files/NT4CM-Evaluation-Summary-010714.xlsx){: xslx}
 NT4CM Evaluation Text for Jan 7, 2014                                                      | [Word](downloads/files/NT4CM-Evaluation-Text-010714.docx){: word}
-NT4CM Evaluation Summary for Apr 30, 2014                                                  | [Word](downloads/files/NT4CM-Evaluation-Summary-043014.xlsx){: xslx}
+NT4CM Evaluation Summary for Apr 30, 2014                                                  | [Excel](downloads/files/NT4CM-Evaluation-Summary-043014.xlsx){: xslx}
 NT4CM Evaluation Text for Apr 30, 2014                                                     | [Word](downloads/files/NT4CM-Evaluation-Text-043014.docx){: word}
 {: .table .table-striped .documents-tables}
 
