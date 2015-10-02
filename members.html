@@ -16,7 +16,8 @@ permalink: /members/
         <th>Institution</th>
         <th>Member Since</th>
     </tr>
-    {% assign members = site.data.members | sort: "name" | sort: "institution" %}
+    {% assign members_by_name = site.data.members | sort: "name" %}
+    {% assign members = members_by_name | sort: "institution" %}
     {% for member in members %}
         <tr>
               <td>{{ member.name }}</td>
