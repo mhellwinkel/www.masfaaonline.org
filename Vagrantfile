@@ -5,7 +5,14 @@ Vagrant.configure("2") do |config|
 
     config.vm.box = "ubuntu/trusty64"
     config.vm.network "private_network", ip: "192.168.33.10"
-    config.vm.synced_folder ".", "/home/vagrant/jekyll"
+
+    # rsync is way way faster than native synced folders!!!
+    # But you have to run `vagrant rsync-auto` in the host vm in another window from vagrant up
+    config.vm.synced_folder ".", "/home/vagrant/jekyll",
+      type: "rsync",
+      rsync__exclude: [".git/", ".vagrant/"]
+
+    # config.vm.synced_folder ".", "/home/vagrant/jekyll"
 
     # install packages as root
     # list is from https://gorails.com/setup/ubuntu/14.04
