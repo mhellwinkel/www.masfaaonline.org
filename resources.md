@@ -34,9 +34,13 @@ To read the RMASFAA Blog [click here](https://rmasfaa.wordpress.com).
 
 Hello MASFAA Colleagues and welcome to the RMASFAA Exchange!
 
-My name is Laurie Rodriguez from Carroll College (Helena, MT) and I am the Chair of the Association News Committee. Social media outlets are revolutionizing how people communicate and get news. The Association News Committee (a collaborative working group made up of representation from each state in the Rocky Mountain region) is responsible for coordinating the preparation and presentation of association news via the Exchange Blog and RMASFAA list-serve. Thus, the committee and I plan to maintain the blog to provide important news and information to our members. This will allow us to distribute information and news to our members on a more regular basis - and in a more relevant manner.
+Social media outlets are revolutionizing how people communicate and get news. The Association News Committee (a collaborative working group made up of representation from each state in the Rocky Mountain region) is responsible for coordinating the preparation and presentation of association news via the Exchange Blog and RMASFAA list-serve. Thus, the committee plans to maintain the blog to provide important news and information to our members. This will allow us to distribute information and news to our members on a more regular basis - and in a more relevant manner.
 
-If you haven't already, I encourage you to subscribe to the [Exchange Blog](https://rmasfaa.wordpress.com) to **receive up-to-date information about all things RMASFAA. Subscribing is easy, just following the link** [http://rmasfaa.wordpress.com](https://rmasfaa.wordpress.com), **on the right hand side, about a third of the way down you'll see the words EMAIL SUBSCRIPTION**. Simply, enter your email address and click "sign me up" to subscribe to the blog to receive notifications of new posts by email. **In addition**, should you have any blog ideas or newsworthy information to share, please feel free to contact me. I can be reached via phone 406-447-5427 or email [lrodriguez@carroll.edu](mailto:lrodriguez@carroll.edu).
+If you haven’t already, we encourage you to **subscribe** to [The Exchange Blog](http://rmasfaa.wordpress.com) to receive up-to-date information about all things RMASFAA. Subscribing is easy:
+
+* Go to [The Exchange Blog](https://rmasfaa.wordpress.com)
+* **On the right hand side, about a third of the way down you’ll see the words "EMAIL SUBSCRIPTION".**
+* Enter your email address and click “Sign me up!” to receive notifications of new posts by email.
 
 # Resources
 
