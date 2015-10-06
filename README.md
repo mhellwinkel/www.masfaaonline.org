@@ -8,7 +8,7 @@ Hosted with [Github Pages](https://pages.github.com/) as a [Project Page](https:
 
 # DNS
 
-Domain name is registered at GoDaddy and all DNS is there. The naked domain, `masfaaonline.org`, is redirected to `www.masfaaonline.org` according to [best practices](https://help.github.com/articles/about-custom-domains-for-github-pages-sites/). A CNAME record for `www.masfaaonline.org` points to `safmt.github.io`.
+Domain name is registered at GoDaddy and all DNS is there. According to [best practices](https://help.github.com/articles/about-custom-domains-for-github-pages-sites/) the "www" version of the domain is the official version. A CNAME record for `www.masfaaonline.org` points to `mhesac.github.io` and A records point to IP addresses at Github which handle redirection to `www.masfaaonline.org`.
 
 # How to Work Locally
 
