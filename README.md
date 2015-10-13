@@ -1,6 +1,6 @@
 # Purpose
 
-SAF maintains a website for MASFAA, the Montana Association of Student Financial Aid Administration.
+MHESAC maintains a website for MASFAA, the Montana Association of Student Financial Aid Administration.
 
 # Hosting
 
@@ -19,7 +19,7 @@ Make sure that you have installed:
 
 Clone the repo:
 ```
-> git clone git@github.com:safmt/www.masfaaonline.org.git
+> git clone git@github.com:mhesac/www.masfaaonline.org.git
 ```
 
 Start up a virtual machine with Jekyll installed. The machine will take a while to provision on the first start.
