@@ -18,3 +18,5 @@ bootstrap-sass: bootstrap-sass-3.3.5
 sass:
     sass_dir: /bootstrap-sass-3.3.5/assets/stylesheets
     style: :compressed
+
+exclude: [vendor]

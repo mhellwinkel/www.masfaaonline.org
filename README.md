@@ -1,3 +1,5 @@
+[![Circle CI](https://img.shields.io/circleci/project/mhesac/www.masfaaonline.org.svg)](https://circleci.com/gh/mhesac/www.masfaaonline.org)
+
 # Purpose
 
 MHESAC maintains a website for MASFAA, the Montana Association of Student Financial Aid Administration.
