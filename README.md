@@ -33,6 +33,7 @@ Make sure that you have installed:
 * git
 * VirtualBox
 * Vagrant
+* [MHESAC base vm](https://github.com/mhesac/vagrant-jekyll)
 
 Clone the repo:
 ```
@@ -44,14 +45,33 @@ Start up a virtual machine with Jekyll installed. The machine will take a while 
 > cd www.masfaaonline.org
 > vagrant up
 > vagrant ssh
-> cd jekyll
+> cd jekyll`
+```
+
+[Install Jekyll](https://help.github.com/articles/using-jekyll-with-pages/) (first time only):
+
+```
+> bundle install
+```
+
+[Update Jekyll](https://help.github.com/articles/using-jekyll-with-pages/#keeping-jekyll-up-to-date):
+
+```
+> bundle update
 ```
 
 Start Jekyll server:
+
 ```
-> bundle exec jekyll serve --force_polling
+> rake
 ```
 
-Edit in the host OS. Find the website at http://192.168.33.10:4000/
+Edit in the host OS. Find the website at <http://192.168.33.10:4000/>
 
-Commit changes and push to the gh-pages branch to deploy to production.
+Push to the `gh-pages` branch to deploy to production.
+
+Run tests:
+
+```
+> rake test
+```
