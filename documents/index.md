@@ -25,9 +25,9 @@ MASFAA Letterhead #3 (watermark)                                                
 New MASFAA Letterhead #4                                                                   | [PDF](downloads/files/MASFAA_Letterhead_4.pdf){: pdf}
 MASFAA Minority Scholarship Application for RMASFAA Summer Institute                       | [Word](downloads/files/MASFAA-Minority-Scholarship-Application.doc){: word} [PDF](downloads/files/masfaaminorityscholarship.pdf){: pdf}
 MASFAA Electronic Discussion Group                                                         | [Word](downloads/files/Masfaa-Listserv.doc){: word} [PDF](downloads/files/MASFAAlistserv.pdf){: pdf}
-2015 Associate Membership Application                                                      | [Word](downloads/files/2015-associate-membership-application.doc){: word}
+2016 Associate Membership Application                                                      | [Word](downloads/files/2016-associate-membership-application.doc){: word}
 2015 Corporate Support Agreement                                                           | [Word](downloads/files/masfaa-corporate-support-agreement-2015.docx){: word}
-2015 Institutional Membership Application                                                  | [Word](downloads/files/2015-institutional-membership-application.doc){: word}
+2016 Institutional Membership Application                                                  | [Word](downloads/files/2016-institutional-membership-application.doc){: word}
 MASFAA Expense Reimbursement Form                                                          | [Word](downloads/files/Expense-Reimbursement-Form.docx){: word}
 MASFAA Hot Topics Spring 2013                                                              | [PDF](downloads/files/MASFAA-Hot-Topics-Spring-2013-for-Web-Posting.pdf){: pdf}
 2015-2016 MASFAA Presentation                                                              | [PowerPoint](downloads/files/masfaa-2015-2016.pptx){: ppt}
@@ -49,6 +49,7 @@ Here you can access the minutes from any of the listed meetings. As new meetings
 
 Name                                          | Download
 --------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------:
+Board Meeting September, 2015                 | [Word](downloads/minutes/MASFAA%20Board%20Meeting%20Minutes%2009%2018%202015.docx){: word}
 Business Meeting April, 2014                  | [Word](downloads/minutes/4-25-14-masfaa-business-meeting%20notes.docx){: word}
 Board Meeting April, 2014                     | [Word](downloads/minutes/4-23-14-masfaa-board-meeting%20minutes.docx){: word}
 Board Meeting November, 2013                  | [Word](downloads/minutes/nov1masfaa-board-meeting.docx){: word}
