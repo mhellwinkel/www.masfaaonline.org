@@ -50,6 +50,7 @@ Here you can access the minutes from any of the listed meetings. As new meetings
 Name                                          | Download
 --------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------:
 Board Meeting September, 2015                 | [Word](downloads/minutes/MASFAA%20Board%20Meeting%20Minutes%2009%2018%202015.docx){: word}
+Board Meeting November, 2014                  | [Word](downloads/minutes/11-05-14-masfaa-board-meeting-minutes.docx){: word}
 Business Meeting April, 2014                  | [Word](downloads/minutes/4-25-14-masfaa-business-meeting%20notes.docx){: word}
 Board Meeting April, 2014                     | [Word](downloads/minutes/4-23-14-masfaa-board-meeting%20minutes.docx){: word}
 Board Meeting November, 2013                  | [Word](downloads/minutes/nov1masfaa-board-meeting.docx){: word}
