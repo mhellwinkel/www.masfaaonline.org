@@ -36,7 +36,7 @@ MASFAA Hot Topics Spring 2013                                                   
 Montana University System-Financial Literacy Program Presentation (MASFAA Conference 2013) | [PowerPoint](downloads/files/MUS-Financial-Literacy-Program-MASFAA-Conf-Presentation-2013.ppt){: ppt}
 Montana University System-Student Financial Services Presentation (MASFAA Conference 2013) | [PowerPoint](downloads/files/MUS-Student-Fin-Services-MASFAA-Conf-Pres-2013.ppt){: ppt}
 Academic Recovery Form                                                                     | [Word](downloads/files/Academic-Recovery-Plan-form-F.doc){: word}
-{: .table .table-striped .documents-tables}
+{: .documents-tables}
 
 ## History
 
@@ -45,4 +45,4 @@ Name                   | Download
 MASFAA Awards          | [Word](downloads/history/MASFAA_Awards.doc){: word}
 MASFAA Past Presidents | [Word](downloads/history/MASFAA_Past_Presidents.doc){: word}
 MASFAA Board Members   | [Word](downloads/history/MASFAA_Board_Members.doc){: word}
-{: .table .table-striped .documents-tables}
+{: .documents-tables}

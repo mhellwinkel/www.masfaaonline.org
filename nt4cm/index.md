@@ -43,7 +43,7 @@ NT4CM Evaluation Text for Oct 17, 2014                                  | [Word]
 NT4CM Evaluation Summary for Oct 15, 2014                               | [Excel](reports/NT4CM-Evaluation-Summary-101615.xlsx){: xslx}
 NT4CM Evaluation Summary for Oct 14, 2014                               | [Excel](reports/NT4CM-Evaluation-Summary-101614B.xlsx){: xslx}
 NT4CM Evaluation Text for Oct 14, 2014                                  | [Word](reports/NT4CM-Evaluation-Text-101614B.docx){: word}
-{: .table .table-striped .documents-tables}
+{: .documents-tables}
 
 ### 2013-2014
 
@@ -54,4 +54,4 @@ NT4CM Evaluation Summary for Jan 7, 2014                                | [Excel
 NT4CM Evaluation Text for Jan 7, 2014                                   | [Word](reports/NT4CM-Evaluation-Text-010714.docx){: word}
 NT4CM Evaluation Summary for Apr 30, 2014                               | [Excel](reports/NT4CM-Evaluation-Summary-043014.xlsx){: xslx}
 NT4CM Evaluation Text for Apr 30, 2014                                  | [Word](reports/NT4CM-Evaluation-Text-043014.docx){: word}
-{: .table .table-striped .documents-tables}
+{: .documents-tables}

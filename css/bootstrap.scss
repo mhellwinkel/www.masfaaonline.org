@@ -15,3 +15,8 @@ $headings-font-family: 'Montserrat', sans-serif;
 $icon-font-path: "/{{ site.bootstrap-sass }}/assets/fonts/bootstrap/";
 
 @import "bootstrap";
+
+table {
+    @extend .table;
+    @extend .table-striped;
+}

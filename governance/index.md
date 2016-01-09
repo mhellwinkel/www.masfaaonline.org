@@ -25,7 +25,6 @@ description: Governance information for MASFAA
 **Member-at-Large**          | Rita Larby       | Montana State University
 **Member-at-Large**          | Alexa Freeburg   | Health Works Institute
 **Associate Member**         | Roxy Jacobson    | Bank of North Dakota
-{: .table .table-striped}
 
 ## Minutes
 
@@ -34,7 +33,7 @@ description: Governance information for MASFAA
 Name                                          | Download
 --------------------------------------------- | :------------------------------------------------------------------------------:
 Board Meeting September, 2015                 | [Word](minutes/MASFAA%20Board%20Meeting%20Minutes%2009%2018%202015.docx){: word}
-{: .table .table-striped .documents-tables}
+{: .documents-tables}
 
 ### 2014
 
@@ -43,7 +42,7 @@ Name                                          | Download
 Board Meeting November, 2014                  | [Word](minutes/11-05-14-masfaa-board-meeting-minutes.docx){: word}
 Business Meeting April, 2014                  | [Word](minutes/4-25-14-masfaa-business-meeting%20notes.docx){: word}
 Board Meeting April, 2014                     | [Word](minutes/4-23-14-masfaa-board-meeting%20minutes.docx){: word}
-{: .table .table-striped .documents-tables}
+{: .documents-tables}
 
 ### 2013
 
@@ -53,7 +52,7 @@ Board Meeting November, 2013                  | [Word](minutes/nov1masfaa-board-
 Board Meeting July, 2013                      | [Word](minutes/july25masfaa-board-meeting.docx){: word}
 Business Meeting April, 2013                  | [Word](minutes/masfaa-2013-business-meeting-minutes-2.doc){: word}
 Board Meeting April, 2013                     | [Word](minutes/april-17-masfaa-board-meeting.doc){: word}
-{: .table .table-striped .documents-tables}
+{: .documents-tables}
 
 ### 2012
 
@@ -63,7 +62,7 @@ Board Meeting October, 2012                   | [Word](minutes/masfaa-board-meet
 Board Meeting June, 2012                      | [Word](minutes/MASFAA%20Board%20Meeting%20June%202012%20Minutes.docx){: word}
 Business Meeting April 20, 2012               | [Word](minutes/MASFAA%20Business%20Meeting%204_20_2012.doc){: word}
 Board Meeting April 17, 2012                  | [Word](minutes/MASFAA%20Board%20Meeting%204_17_2012.doc){: word}
-{: .table .table-striped .documents-tables}
+{: .documents-tables}
 
 ### Prior Years
 
@@ -75,4 +74,4 @@ Draft Business Meeting Minutes April 22, 2005 | [Word](minutes/masfaa_business_m
 Business Meeting Minutes April 16, 2004       | [Word](minutes/MASFAA_Business_Meeting_4_16_04.doc){: word}
 Business Meeting April 11, 2003               | [Word](minutes/MASFAA_spring_03_Business_Meeting.doc){: word}
 Business Meetings November 5, 1999            | [Word](minutes/MASFAA1199.doc){: word} [PDF](minutes/MASFAA1199.pdf){: pdf}
-{: .table .table-striped .documents-tables}
+{: .documents-tables}
