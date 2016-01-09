@@ -17,6 +17,24 @@ $icon-font-path: "/{{ site.bootstrap-sass }}/assets/fonts/bootstrap/";
 @import "bootstrap";
 
 table {
-    @extend .table;
-    @extend .table-striped;
+  @extend .table;
+  @extend .table-striped;
+  .pdf, .word, .ppt, .xslx {
+    @extend .btn;
+    @extend .btn-sm;
+    /*makes for nice spacing on download page when buttons stack on phones*/
+    margin-top: 5px;
+  }
+  .pdf {
+    @extend .btn-success;
+  }
+  .word {
+    @extend .btn-primary;
+  }
+  .ppt {
+    @extend .btn-info;
+  }
+  .xslx {
+    @extend .btn-warning;
+  }
 }
