@@ -34,6 +34,7 @@ Board Meeting September, 2015                 | [Word](minutes/MASFAA%20Board%20
 Name                                          | Download
 --------------------------------------------- | :------------------------------------------------------------------------------:
 Board Meeting November, 2014                  | [Word](minutes/11-05-14-masfaa-board-meeting-minutes.docx){: .word}
+Board Meeting July, 2014                      | [Word](minutes/7-9-14-masfaa-board-meeting-minutes.docx) {: .word}
 Business Meeting April, 2014                  | [Word](minutes/4-25-14-masfaa-business-meeting%20notes.docx){: .word}
 Board Meeting April, 2014                     | [Word](minutes/4-23-14-masfaa-board-meeting%20minutes.docx){: .word}
 {: .documents-tables}
