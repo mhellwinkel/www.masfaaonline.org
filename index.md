@@ -12,6 +12,7 @@ In addition, **MASFAA** assists with communications between institutions of post
 The Association serves as the State forum and acts as the focus for the expression of views on matters relating to the development, funding and administration of student financial aid at the state, regional and national levels.
 
 ## MASFAA 2016 Conference, Billings, April 6-8
+[*Registration is now open.*](documents/downloads/files/MASFAA-Conference-Registration-Form.docx) Conference Registration: $99 if registered by March 15, 2016.
 
 Reserve your room in the MASFAA room block today! **Deadline to reserve is March 5, 2016.**
 
