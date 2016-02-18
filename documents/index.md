@@ -23,13 +23,9 @@ MASFAA Electronic Discussion Group                                              
 2016 Corporate Support Agreement                                                           | [Word](downloads/files/2016-masfaa-corporate-support-agreement.docx){: .word}
 2016 Institutional Membership Application                                                  | [Word](downloads/files/2016-institutional-membership-application.doc){: .word}
 MASFAA Expense Reimbursement Form                                                          | [Word](downloads/files/Expense-Reimbursement-Form.docx){: .word}
-MASFAA Hot Topics Spring 2013                                                              | [PDF](downloads/files/MASFAA-Hot-Topics-Spring-2013-for-Web-Posting.pdf){: .pdf}
 2015-2016 MASFAA Presentation                                                              | [PowerPoint](downloads/files/masfaa-2015-2016.pptx){: .ppt}
 2015-2016 Additional Slides for Financial Aid Nights Comprehensive                         | [PowerPoint](downloads/files/masfaa-2015-2016-additional.pptx){: .ppt}
 2016-2017 Parent Night - What You Need to Know About Financial Aid                         | [PowerPoint](downloads/files/2016-2017-SAF-Parent-Night.pptx){: .ppt}
-Montana University System-Financial Literacy Program Presentation (MASFAA Conference 2013) | [PowerPoint](downloads/files/MUS-Financial-Literacy-Program-MASFAA-Conf-Presentation-2013.ppt){: .ppt}
-Montana University System-Student Financial Services Presentation (MASFAA Conference 2013) | [PowerPoint](downloads/files/MUS-Student-Fin-Services-MASFAA-Conf-Pres-2013.ppt){: .ppt}
-Academic Recovery Form                                                                     | [Word](downloads/files/Academic-Recovery-Plan-form-F.doc){: .word}
 {: .documents-tables}
 
 ## History
