@@ -26,6 +26,7 @@ description: Governance information for MASFAA
 
 Name                                          | Download
 --------------------------------------------- | :------------------------------------------------------------------------------:
+Board Meeting December, 2015                  | [Word](minutes/16-12-15-masfaa-board-meeting-minutes.docx){: .word}
 Board Meeting September, 2015                 | [Word](minutes/MASFAA%20Board%20Meeting%20Minutes%2009%2018%202015.docx){: .word}
 {: .documents-tables}
 
