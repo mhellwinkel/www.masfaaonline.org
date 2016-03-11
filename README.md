@@ -29,33 +29,21 @@ Domain name is registered at GoDaddy and all DNS is there. According to [best pr
 
 # How to Work Locally
 
-Make sure that you have installed:
-* git
-* VirtualBox
-* Vagrant
-* [MHESAC base vm](https://github.com/mhesac/vagrant-jekyll)
+* [Install rbenv](https://github.com/rbenv/rbenv#installation)
+* [Install ruby-build](https://github.com/rbenv/ruby-build#installation)
 
 Clone the repo:
 ```
 > git clone git@github.com:mhesac/www.masfaaonline.org.git
 ```
 
-Start up a virtual machine with Jekyll installed. The machine will take a while to provision on the first start.
+[Install Jekyll](https://help.github.com/articles/using-jekyll-with-pages/) (first time only):
 ```
 > cd www.masfaaonline.org
-> vagrant up
-> vagrant ssh
-> cd jekyll`
-```
-
-[Install Jekyll](https://help.github.com/articles/using-jekyll-with-pages/) (first time only):
-
-```
 > bundle install
 ```
 
 [Update Jekyll](https://help.github.com/articles/using-jekyll-with-pages/#keeping-jekyll-up-to-date):
-
 ```
 > bundle update
 ```
@@ -66,7 +54,7 @@ Start Jekyll server:
 > rake
 ```
 
-Edit in the host OS. Find the website at <http://192.168.33.10:4000/>
+Edit and view changes at http://localhost:4000/
 
 Push to the `gh-pages` branch to deploy to production.
 
