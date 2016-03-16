@@ -19,6 +19,7 @@ task :test => [:build] do
     {
       :check_favicon => true,
       :check_html => true,
+      :assume_extension => true,
       :file_ignore => ["./_site/search/index.html"],
       :url_ignore => [
         /mappingyourfuture.org/,

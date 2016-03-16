@@ -1,13 +1,13 @@
-baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "http://www.masfaaonline.org" # the base hostname & protocol for your site
 title: "MASFAA"
 description: The Montana Association of Student Financial Aid Administrators (MASFAA) is an organization serving the needs of students, institutions of higher education, government agencies, and private funding sources through the coordination of plans and programs for student financial aid.
 
 gems:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown
+timezone: US/Mountain
 
 kramdown:
   toc_levels: "2"
@@ -19,4 +19,11 @@ sass:
     sass_dir: /bootstrap-sass-3.3.5/assets/stylesheets
     style: :compressed
 
-exclude: [vendor]
+exclude:
+  - vendor
+  - circle.yml
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - README.md

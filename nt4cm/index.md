@@ -2,7 +2,6 @@
 layout: base
 title: NT4CM
 description: National Training for Counselors and Mentors
-permalink: /nt4cm/
 ---
 
 MASFAA is proud to be the state coordinator for NT4CM (National Training for Counselors and Mentors). NT4CM is a **FREE** comprehensive training program on financial aid. Topics include: Overview of Financial Aid Programs, Applying for Federal Financial Aid, Student Dependency Status, And the Number Is (EFC), After the FAFSA, Searching for Scholarships, and State and institutional Aid. Trainings are for individuals who advise students and their families on how to fund education beyond high school. Trainings can range from an hour to a full day. Continuing Education Units are provided to attendees.

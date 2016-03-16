@@ -2,7 +2,6 @@
 layout: base
 title: Policy and Procedures
 description: MASFAA Policy and Procedures
-permalink: /governance/policies/
 ---
 
 * Will be replaced with the toc
