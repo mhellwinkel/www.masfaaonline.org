@@ -1,4 +1,4 @@
-require 'html/proofer'
+require 'html-proofer'
 
 task :default => [:serve]
 
@@ -14,13 +14,16 @@ end
 
 desc "Test site."
 task :test => [:build] do
-  HTML::Proofer.new(
+  HTMLProofer.check_directory(
     "./_site",
     {
       :check_favicon => true,
       :check_html => true,
       :file_ignore => ["./_site/search/index.html"],
-      :href_ignore => ["http://www.salliemae.com"]
+      :url_ignore => [
+        /mappingyourfuture.org/,
+        /mygreatlakes.org/
+      ]
     }
   ).run
 end
