@@ -1,0 +1,33 @@
+---
+layout: base
+title: Developer Info
+sitemap: false
+---
+
+<h2>Site Map By Layout</h2>
+
+{% assign pages_by_layout = site.pages | group_by: "layout" | sort: "name" %}
+{% for layout in pages_by_layout %}
+  {% if layout.name != "" %}
+    <h2>{{ layout.name }}</h2>
+    <ol>
+      {% assign pages = layout.items | sort: "url" %}
+      {% for page in pages %}
+        <li><a href="{{ site.github.url | append: page.url }}">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</a> - {{ site.github.url | append: page.url }}
+      {% endfor %}
+    </ol>
+  {% endif %}
+{% endfor %}
+
+<h2>Build Variables</h2>
+
+<pre>
+site.time: {{ site.time }} {{ site.time | date: "%Z" }}
+jekyll.version: {{ jekyll.version }}
+jekyll.environment: {{ jekyll.environment }}
+site.github.url: {{ site.github.url }}
+site.github.repository_url: {{ site.github.repository_url }}
+site.github.releases: {{ site.github.releases }}
+site.github.versions:
+{% for item in site.github.versions %}  - {{ item[0] }}: {{ item[1] }}<br>{% endfor %}
+</pre>
