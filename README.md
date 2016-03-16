@@ -39,7 +39,7 @@ Domain name is registered at GoDaddy and all DNS is there. According to [best pr
 
 ## Developer Links
 
-- [Developer Info](http://www.masfaaonline.org/info/)
+- [Developer Info](http://www.masfaaonline.org/info)
 - [Sitemap](http://www.masfaaonline.org/sitemap.xml) for SEO
 - [robots.txt](http://www.masfaaonline.org/robots.txt)
 - [CircleCI](https://circleci.com/gh/mhesac/www.masfaaonline.org)
