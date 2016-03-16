@@ -11,6 +11,7 @@ MHESAC maintains a website for MASFAA, the Montana Association of Student Financ
 - [Markdown](#markdown)
 - [Hosting](#hosting)
 - [DNS](#dns)
+- [Developer Links](#developer-links)
 - [How to Work Locally](#how-to-work-locally)
 
 ## How to Update This Site
@@ -35,6 +36,14 @@ Hosted with [Github Pages](https://pages.github.com/) as a [Project Page](https:
 ## DNS
 
 Domain name is registered at GoDaddy and all DNS is there. According to [best practices](https://help.github.com/articles/about-custom-domains-for-github-pages-sites/) the "www" version of the domain is the official version. A CNAME record for `www.masfaaonline.org` points to `mhesac.github.io` and A records point to IP addresses at Github which handle redirection to `www.masfaaonline.org`.
+
+## Developer Links
+
+- [Developer Info](http://www.masfaaonline.org/info/)
+- [Sitemap](http://www.masfaaonline.org/sitemap.xml) for SEO
+- [robots.txt](http://www.masfaaonline.org/robots.txt)
+- [CircleCI](https://circleci.com/gh/mhesac/www.masfaaonline.org)
+
 
 ## How to Work Locally
 
