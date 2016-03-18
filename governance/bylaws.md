@@ -2,6 +2,7 @@
 layout: base
 title: By-Laws
 description: By-Laws
+permalink: /governance/bylaws/
 ---
 
 * Will be replaced with the toc
