@@ -41,9 +41,7 @@ Rooms offered at state rate.
       <h4>Supporting These Schools:</h4>
       <div class="carousel slide" data-ride="carousel" data-interval="2000">
         <div class="carousel-inner" role="listbox">
-          <div class="item active"><img class="img-responsive center-block" src="/images/rotate/AcademyLogo.jpg" alt="Academy Logo" /></div>
-          <div class="item"><img class="img-responsive center-block" src="/images/rotate/carrollCollege.jpg" alt="Carroll College"/></div>
-          <div class="item"><img class="img-responsive center-block" src="/images/rotate/Chief_Dull_Knife_College_logo.jpg" alt="Chief Dull Knife College"/></div>
+          <div class="item active"><img class="img-responsive center-block" src="/images/rotate/carrollCollege.jpg" alt="Carroll College"/></div>
           <div class="item"><img class="img-responsive center-block" src="/images/rotate/Dawson-CC.gif" alt="Dawson CC"/></div>
           <div class="item"><img class="img-responsive center-block" src="/images/rotate/FVCC.jpg" alt="FVCC"/></div>
           <div class="item"><img class="img-responsive center-block" src="/images/rotate/healthworks.gif" alt="Health Works"/></div>
