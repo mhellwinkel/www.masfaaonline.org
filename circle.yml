@@ -1,7 +1,5 @@
 machine:
   timezone: America/Denver
-  ruby:
-    version: 2.1.7
 
 test:
   override:
