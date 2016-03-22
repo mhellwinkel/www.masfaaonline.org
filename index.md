@@ -26,7 +26,7 @@ Rooms offered at state rate.
 <div class="col-md-12">
   <div class="row">
 
-    <div class="col-md-6">
+    <div class="col-md-4">
       <p>
         <img src="/images/masfaa.jpg" class="img-responsive center-block" alt="MASFAA"/>
       </p>
@@ -37,7 +37,7 @@ Rooms offered at state rate.
       </p>
     </div>
 
-    <div class="col-md-6 text-center">
+    <div class="col-md-4 text-center" style="height: 240px;">
       <h4>Supporting These Schools:</h4>
       <div class="carousel slide" data-ride="carousel" data-interval="2000">
         <div class="carousel-inner" role="listbox">
@@ -57,7 +57,12 @@ Rooms offered at state rate.
           <div class="item"><img class="img-responsive center-block" src="/images/rotate/UM-Missoula.gif" alt="UM Missoula"/></div>
           <div class="item"><img class="img-responsive center-block" src="/images/rotate/UM-Western.gif" alt="UM Western"/></div>
         </div>
+      </div>
     </div>
 
-  </div>
+    <div class="col-md-4 text-center">
+      <h4>Corporate Sponsorship Provided by:</h4>
+      <img class="img-responsive center-block" src="/images/rotate/bank_of_north_dakota.png" alt="Bank of North Dakota"/>
+    </div>
+
 </div>
