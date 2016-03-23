@@ -8,8 +8,8 @@ description: Documents
 
 Name                                                                                       | Download
 ------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------:
-RMASFAA's Best Practices                                                                   | [PDF](downloads/files/Printable-RMASFAAs-Best-Practices.pdf){: .pdf}
 RMASFAA's Best Practices                                                                   | [PowerPoint](downloads/files/RMASFAA-best-practices.pptx){: .ppt}
+RMASFAA's Best Practices (Print Version)                                                   | [PDF](downloads/files/Printable-RMASFAAs-Best-Practices.pdf){: .pdf}
 Communicating with 21st Century Students                                                   | [PDF](downloads/files/Communicating-with-21st-Century-Students.pdf){: .pdf}
 Communicating with 21st Century Students (Resources)                                       | [PDF](downloads/files/Communicating-with-21st-Century-Students-Resources.pdf){: .pdf}
 April 2015 NASFAA Federal Update                                                           | [PowerPoint](downloads/files/NASFAA-Federal-Update-April.pptx){: .ppt}
