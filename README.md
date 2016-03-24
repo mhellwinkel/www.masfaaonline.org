@@ -7,10 +7,9 @@ MHESAC maintains a website for MASFAA, the Montana Association of Student Financ
 ## Table of Contents
 
 - [How to Update This Site](#how-to-update-this-site)
-- [How to Update Members Institutions](#how-to-update-members-institutions)
+- [How to Update Members and Institutions](#how-to-update-members-and-institutions)
 - [Markdown](#markdown)
-- [Hosting](#hosting)
-- [DNS](#dns)
+- [Hosting and DNS](#hosting-and-dns)
 - [Site Information](#site-information)
 - [How to Work Locally](#how-to-work-locally)
 
@@ -29,13 +28,9 @@ Most of the pages on this site are written in Markdown (files ending in `.md`). 
 - [Markdown basics](https://help.github.com/articles/markdown-basics/) will cover most of what you need.
 - This site uses a variant of Markdown called [kramdown](http://kramdown.gettalong.org/quickref.html) for extra capabilities.
 
-## Hosting
+## Hosting and DNS
 
-Hosted with [Github Pages](https://pages.github.com/) as a [Project Page](https://help.github.com/articles/user-organization-and-project-pages/#project-pages).
-
-## DNS
-
-Domain name is registered at GoDaddy and all DNS is there. According to [best practices](https://help.github.com/articles/about-custom-domains-for-github-pages-sites/) the "www" version of the domain is the official version. A CNAME record for `www.masfaaonline.org` points to `mhesac.github.io` and A records point to IP addresses at Github which handle redirection to `www.masfaaonline.org`.
+Hosted with [Github Pages](https://pages.github.com/) as a [Project Page](https://help.github.com/articles/user-organization-and-project-pages/#project-pages). Domain name is registered at GoDaddy and all DNS is there. DNS consists of two **A** records on `masfaaonline.org` that point to 192.30.252.153 and 192.30.252.154, and a **CNAME** record for `www.masfaaonline.org` that points to `mhesac.github.io`. GitHub handles the redirect from `masfaaonline.org` to `www.masfaaonline.org` so that the site is served at **<www.masfaaonline.org>** according to [best practices](https://help.github.com/articles/about-custom-domains-for-github-pages-sites/).
 
 ## Site Information
 
