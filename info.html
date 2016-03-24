@@ -1,19 +1,73 @@
 ---
 layout: base
-title: Developer Info
+title: Site Info
+description: Information for site development and SEO
 sitemap: false
+
+branch: gh-pages
+extras:
+  - layout
+  - permalink
+  - image
+  - caption
 ---
 
-<h2>Site Map By Layout</h2>
+<button class="btn btn-primary pull-right" type="button" data-toggle="collapse" data-target=".dev-links"><span class="glyphicon glyphicon-list"></span> Dev Links</button>
+
+<h2>Pages</h2>
+
+<ol class="site-pages">
+  {% assign pages = site.pages | sort: "url" %}
+  {% for p in pages %}
+  {% if p.layout | length > 0 %}
+    <li>
+      <a href="{{ site.github.url | append: p.url }}">{{ site.github.url | append: p.url }}</a>
+      <dl class="dl-horizontal">
+        <dt>Edit</dt>
+        <dd><a href="{{ site.github.repository_url }}/blob/{{ page.branch }}/{{ p.path }}">View on GitHub</a></dd>
+        <dt><code>title:</code></dt>
+        <dd><b>{% if p.title %}{{ p.title }}{% else %}{{ site.title }}{% endif %}</b></dd>
+        <dt><code>description:</code></dt>
+        <dd>{% if p.description %}{{ p.description }}{% else %}{{ site.description }}{% endif %}</dd>
+        {% for e in page.extras %}
+          {% if p[e] %}
+            <dt><code>{{ e }}:</code></dt>
+            <dd>{{ p[e] }}</dd>
+          {% endif %}
+        {% endfor %}
+        {% assign link = site.github.url | append: p.url | cgi_escape %}
+        <dt class="collapse dev-links">Social</dt>
+        <dd class="collapse dev-links">
+          <ul class="list-unstyled">
+            <li><a href="https://developers.facebook.com/tools/debug/og/object?q={{ link }}">Open Graph Object Debugger</a></li>
+            <li><a href="https://developers.google.com/structured-data/testing-tool?url={{ link }}">Structured Data Testing Tool</a></li>
+          </ul>
+        </dd>
+        <dt class="collapse dev-links">Validation</dt>
+        <dd class="collapse dev-links">
+          <ul class="list-unstyled">
+            <li><a href="https://developers.google.com/speed/pagespeed/insights/?url={{ link }}">Google PageSpeed</a></li>
+            <li><a href="https://validator.w3.org/nu/?doc={{ link }}">W3C HTML Checker</a></li>
+            <li><a href="https://jigsaw.w3.org/css-validator/validator?uri={{ link }}">W3C CSS Validation Service</a></li>
+            <li><a href="https://validator.w3.org/mobile-alpha/?url={{ link }}">W3C Mobile Checker</a></li>
+            <li><a href="https://validator.w3.org/unicorn/check?tests=http&ucn_task=custom&ucn_uri={{ link }}">W3C HTTP Checker</a></li>
+            <li><a href="https://validator.w3.org/checklink?hide_type=all&depth=&check=Check&uri={{ link }}">W3C Link Checker</a></li>
+          </ul>
+    </li>
+  {% endif %}
+  {% endfor %}
+</ol>
+
+<h2>Pages by Layout</h2>
 
 {% assign pages_by_layout = site.pages | group_by: "layout" | sort: "name" %}
 {% for layout in pages_by_layout %}
-  {% if layout.name != "" %}
-    <h2>{{ layout.name }}</h2>
+  {% if layout.name != empty %}
+    <h3>{{ layout.name }}</h3>
+    {% assign pages = layout.items | sort: "url" %}
     <ol>
-      {% assign pages = layout.items | sort: "url" %}
-      {% for page in pages %}
-        <li><a href="{{ site.github.url | append: page.url }}">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</a> - {{ site.github.url | append: page.url }}
+      {% for p in pages %}
+        <li><a href="{{ site.github.url | append: p.url }}">{{ site.github.url | append: p.url }}</a> - {% if p.title %}{{ p.title }}{% else %}{{ site.title }}{% endif %}</li>
       {% endfor %}
     </ol>
   {% endif %}

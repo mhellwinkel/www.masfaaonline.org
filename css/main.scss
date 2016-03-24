@@ -42,3 +42,9 @@
      -moz-box-sizing: content-box;
           box-sizing: content-box;
 }
+
+.site-pages {
+  &>li { margin-bottom: 1em; }
+  dl { margin-bottom: 0;}
+  dt { font-weight: normal; }
+}

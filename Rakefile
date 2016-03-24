@@ -24,7 +24,8 @@ task :test => [:build] do
       :url_ignore => [
         /mappingyourfuture.org/,
         /mygreatlakes.org/
-      ]
+      ],
+      :file_ignore => ["./_site/info.html"]
     }
   ).run
 end
