@@ -15,7 +15,7 @@ MHESAC maintains a website for MASFAA, the Montana Association of Student Financ
 
 ## How to Update This Site
 
-You can update most of the pages on the MASFAA site by editing them using the GitHub web interface. Find the page you want to edit and then click on the :pencil2: icon. Once done editing, add a commit message at the bottom of the page and commit your changes. They are now live! (Of course, you need write privileges to this repository to commit.)
+You can update most of the pages on the MASFAA site by editing them using the GitHub web interface. Find the page you want to edit and then click on the :pencil2: icon. Once done editing, add a commit message at the bottom of the page and commit your changes. They are now live! The GitHub web interface allows you to upload files with the "Upload files" button or by dragging and dropping. (Of course, you need write privileges to this repository to commit.)
 
 ## How to Update Members and Institutions
 
