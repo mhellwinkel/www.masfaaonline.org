@@ -21,9 +21,12 @@ sass:
 
 exclude:
   - vendor
+  - .rspec
+  - .ruby-version
   - circle.yml
   - CNAME
   - Gemfile
   - Gemfile.lock
   - Rakefile
   - README.md
+  - spec
