@@ -1,6 +1,14 @@
 machine:
   timezone: America/Denver
 
+# temp work-around: https://discuss.circleci.com/t/bundler-fails-to-find-appropriate-version-despite-installing-appropriate-version-earlier-in-the-build/2815/31
+dependencies:
+  pre:
+    - echo Y | rvm @global do gem uninstall bundler
+    - gem install bundler -v '1.10.6'
+
 test:
+  pre:
+    - bundle exec rake build
   override:
-    - bundle exec rake build && bundle exec rspec -r rspec_junit_formatter --format RspecJunitFormatter -o $CIRCLE_TEST_REPORTS/rspec/junit.xml
+    - bundle exec rspec -r rspec_junit_formatter --format RspecJunitFormatter -o $CIRCLE_TEST_REPORTS/rspec/junit.xml
