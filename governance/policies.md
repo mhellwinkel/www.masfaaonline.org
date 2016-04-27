@@ -12,7 +12,7 @@ permalink: /governance/policies/
 
 ### 1.1 Purpose
 
-The Association's Policies and Procedures Manual is designed to provide guidance, reference material, and historical continuity for the Executive Board and committee members. This document is stored on computer disc for ease in updating and transfer as the Executive Board and committee members' change.
+The Association's Policies and Procedures Manual is designed to provide guidance, reference material, and historical continuity for the Executive Board and committee members.
 
 Each member of the Executive Board and committee members is responsible for knowing the content of the Policies and Procedures Manual and suggesting changes and updates. The manual is updated as needed for distribution to new Board members and committee members. The Immediate Past President is responsible for overseeing the updates to the Policies and Procedures Manual. This document is available on the MASFAA website at [http://www.masfaaonline.org/](http://www.masfaaonline.org/).
 
@@ -48,7 +48,7 @@ To serve its members, MASFAA shall:
 * Provide professional and personal development opportunities to members.
 * Place appropriate development items on conference agendas;
 * Promote attendance at regional and national conferences and training events;
-* Provide RMASFAA Summer Institute scholarships to members;
+* Provide professional development scholarships to members;
 * Include student diversity awareness activities and/or training at conferences.
 * Encourage participation in MASFAA events of all individuals who play a major role in assisting students through student financial aid.
 * Recognize that delivery of federal student financial aid resources and compliance with regulations require teamwork between students, schools, lenders, guarantors, the Department of Education, and others;
@@ -58,7 +58,7 @@ To serve its members, MASFAA shall:
 * Keep members informed of opportunities to serve the regional and national associations;
 * Encourage members to volunteer for committees and to respond to requests for information and service.
 * Provide a communications network for its members.
-* MASFAA List serve
+* MASFAA List serve: [masfaa@lists.umt.edu](mailto:masfaa@lists.umt.edu)
 * MASFAA Website: [http://www.masfaaonline.org/](http://www.masfaaonline.org/)
 * Maintain a spirit of cooperation and openness, and an approach which is flexible, equitable, and innovative in all matters relating to the organization.
 * Provide the opportunity and encouragement for members to share ways to solve problems;
@@ -146,6 +146,7 @@ The President shall preside at all meetings of the Association at which he/she i
 * Call and preside at all meetings of the Association and the Board, determine length of floor debate, manner of voting, and agenda items;
 * Serve as an ex officio member of Association committees.
 * Represent MASFAA on the RMASFAA Board (as long as that individual is a RMASFAA member in good standing);
+* Buy state gift for RMASFAA Conference;
 * Ensure that the Association selects members for acknowledgments as outlined by the Bylaws;
 * Submit an annual report to the Association membership on all matters which may be of interest or concern to the Association which have taken place during that term in office;
 * Ensure that the location and conference site committee chair be identified for the upcoming annual conference.
@@ -213,8 +214,9 @@ The Vice President/Secretary shall serve for two years commencing at the conclus
 * Reconcile funds on a timely basis;
 * Responsible for the proper and timely filing of all reports to include all necessary tax forms and audits and payment of Association bills;
 * Responsible to the account receivable billing of sponsorships or registration fees;
-* Serve as chair of the Budget/Audit and Membership Committees;
+* Responsible for ensuring the consistent membership numbers for both institutional and associate members;
 * Prepares the annual budget for Board approval;
+* Have an audit performed on the Associations’s financial records at the end of the Treasurer’s term (Bi-annual).
 * Perform other functions as assigned by the President or Executive Board.
 
 ##### 2.8.4.3 Length of Office
@@ -230,10 +232,11 @@ The Immediate Past President shall serve as advisor to the President and other o
 ##### 2.8.5.2 Characteristics, Duties and Responsibilities
 
 * Participate in the meetings and activities of the Board and contribute to the formulation of policies and practices of the Association;
-* Chairs the Nominations Committee;
+* Select nominees for the several elected offices and to report to the Association at the annual meeting at which time opportunities shall be given for additional nominations from the floor;
 * Oversees updates to the Policies and Procedures Manual and MASFAA Bylaws;
 * Serve as the Association's Historian which includes organizing the recognition of members for years of serve as described in the MASFAA Bylaws at the annual conference as well as retirement and lifetime membership recognition. As Historian, responsible for the written Association history;
 * Forward all Association historical information to the next Immediate Past President.
+* Solicit nominees for Financial Aid Professional of the year.
 
 ##### 2.8.5.3 Length of Office
 
@@ -268,7 +271,7 @@ The two (2) Executive Members-At-Large serving staggered terms shall serve as me
 
 * Attend all Board meetings as well as the annual business meeting;
 * Serve as contact person for the general membership to the Executive Board;
-* The outgoing Executive Member-At-Large shall serve as a member of the Nominations Committee;
+* Serve as MASFAA representatives on other boards where MASFAA is a member;
 * Perform other duties as assigned by the President or prescribed by The Executive Board.
 
 ##### 2.8.7.3 Length of Office
@@ -277,23 +280,11 @@ The two Executive Members-At-Large are elected for two year terms in alternating
 
 ## 3. Standing Committees
 
-### 3.1 Nominations Committee
-
-There shall be a Nominations Committee of three members whose duty it shall be to select nominees for the several elected offices and to report to the Association at the annual meeting at which time opportunities shall be given for additional nominations from the floor. The Immediate Past President will chair this committee and other members will include the President and the outgoing Member-At-Large. Any meeting of this committee may be conducted over email instead of calling an in-person meeting.
-
-### 3.2 Membership Committee
-
-The Treasurer shall chair the Membership Committee and may solicit additional committee members as needed. Association membership is renewed on a yearly basis and the Membership Committee is responsible for ensuring the consistent membership numbers for both institutional and associate members. Membership lists must be provided by this committee in a timely manner to the Board and other committees as needed. This committee will be called to meet only if the need arises.
-
-### 3.3 Budget and Audit
-
-The Treasurer shall chair the Budget and Audit Committee. This committee should, at a minimum, consist of the President and Associate Member Delegate and others as needed and recruited by the Treasurer. This committee is responsible for developing and maintaining proper fiscal controls for the Association. This includes overseeing the establishment of the yearly Association budget as well as arranging for the auditing of the Association financial records on a bi-annual basis as the change of Treasurer occurs. An Association member can perform this audit and a report must be made to the Executive Board Meeting following this transfer of records. This committee shall meet only if the need arises.
-
-### 3.4 Conference Planning Committee
+### 3.1 Conference Planning Committee
 
 This committee is responsible for planning the annual conference, which meets the professional needs of the membership and supports the mission statement and long range plans for the Association. The President-Elect shall be in charge of planning the program and the overall coordinating of arrangements for the annual conference. The entire Executive Board will be invited to be a part of this committee as well as other members as recruited by the President-Elect. This committee will meet once, at a minimum, at least three months prior to the annual conference. See section six (6) for more information about conference planning.
 
-### 3.5 Ad Hoc Committees
+### 3.2 Ad Hoc Committees
 
 As needed, the President can establish ad hoc committees. These committees should have a specific purpose and are dissolved once that purpose is complete. An ad hoc committee may become a standing committee upon the Executive Boards approval.
 
@@ -313,7 +304,7 @@ Sponsorships by outside organizations to underwrite expenses of the Association 
 
 ### 4.4 Label Policy
 
-All label and/or roster requests of the Association membership shall be made to the Membership Committee Chair who will approve and coordinate all orders.
+All label and/or roster requests of the Association membership shall be made to the Treasurer who will approve and coordinate all orders.
 
 ### 4.5 Expressions of Condolence
 
@@ -331,35 +322,23 @@ Any equipment owned by MASFAA shall be tagged as such and included on an invento
 
 ### 5.1 Membership Dues
 
-The membership year is January 1 to December 31\. Annual membership forms will be mailed by January 15th of each year and payment of dues is required by March 1st. Individuals attending Association activities shall be charged the non-membership fee until dues are paid.
+The membership year is January 1 to December 31\. Annual membership forms will be announced on the MASFAA list serve by January 15th of each year and payment of dues is required by March 1st. Individuals attending Association activities shall be charged the non-membership fee until dues are paid.
 
 ### 5.2 Sponsorships
 
-Sponsorships shall be solicited to underwrite direct budgeted expense items only once per year. Sponsorship forms will be mailed to associate members with membership forms in January of every year. Sponsors will be acknowledged for their support at the annual conference. The acknowledgment will be determined by the conference committee. Levels of sponsorship will be as follows:
-
-* Association Advertising Package: $1,050
-* Annual Conference Exhibit Table
-* Annual Conference Program Listed Corporate Update (4 minutes)
-* Website Advertisement on the MASFAA Website
-* Annual Conference Thank You Recognition Board
-* Power Point of MASFAA member logo and association pictures throughout the conference
-* Conference Table Advertising Package: $500
-* Annual Conference Exhibit Table
-* Annual Conference Thank You Recognition Board
-* Conference Advertising Package: $200
-* Annual Conference Thank You Recognition Board
+Sponsorships shall be solicited to underwrite direct budgeted expense items only once per year. Sponsorship forms will be mailed to associate members with membership forms in January of every year. Sponsorship fees will be evaluated yearly by the board in conjunction with the Associate Member delegate. Sponsors will be acknowledged for their support at the annual conference. The acknowledgment will be determined by the conference committee. Levels of sponsorship will be determined yearly by the board:
 
 ### 5.3 Conference registration fee refunds
 
-All requests for refunds shall be in writing and sent to the <s>Secretary</s> Treasurer for approval.
+All requests for refunds shall be in writing and sent to the Treasurer for approval.
 
 #### 5.3.1
 
-A 100% refund shall be granted if the request is received at least 15 days prior to the start of the conference. The <s>Secretary</s> Treasurer shall confirm that the fee was received and issue a refund, with notification of the conference chair.
+A 100% refund shall be granted if the request is received at least 15 days prior to the start of the conference. The Treasurer shall confirm that the fee was received and issue a refund, with notification of the conference chair.
 
 #### 5.3.2
 
-A request for refunds due to extenuating circumstances may be granted upon approval of the <s>Secretary</s>Treasurer and the President. These requests must be received within 15 days after the conclusion of the conference.
+A request for refunds due to extenuating circumstances may be granted upon approval of the Treasurer and the President. These requests must be received within 15 days after the conclusion of the conference.
 
 #### 5.3.3
 
@@ -369,13 +348,13 @@ Registration fees may be transferred to another Association member or to a non-M
 
 #### 5.4.1 The Association will cover expenses incurred by Board members for the following activities:
 
-* For the President-Elect to attend the NASFAA Leadership Conference. Expenses will include the conference registration fee, travel (including cab fare), lodging, and meals at State of Montana per diem amount.
-* For the President (or State Delegate to the RMASFAA Board of Directors, if different than the MASFAA President) to attend the RMASFAA annual conference excluding the conference registration fee.
+* For the President-Elect to attend the NASFAA Leadership & Legislative Conference and Expo. Expenses will include the conference registration fee, travel (including cab fare), lodging, and meals at State of Montana per diem amount.
+* For the President and Past President (or State Delegate to the RMASFAA Board of Directors, if different than the MASFAA President/Past President) to attend the RMASFAA annual conference excluding the conference registration fee.
 * The Executive Board may approve other Board member expenses on a case-by-case basis.
 
 ### 5.5 Commitments or Contract Signing
 
-Contracts or letters of intent for conference facilities or conference entertainment groups will be reviewed and signed by the conference site chair. A copy of all written contracts shall be filed with the <s>Secretary</s> Treasurer.
+Contracts or letters of intent for conference facilities or conference entertainment groups will be reviewed and signed by the conference site chair. A copy of all written contracts shall be filed with the Treasurer.
 
 ### 5.6 Reserve Funds Policy
 
@@ -411,13 +390,19 @@ The Association may have a separate interest-bearing account. This account will 
 
 All Association checks that are not cashed within 90 days will be considered stale dated. It will be the payee's responsibility to contact the Treasurer for a duplicate to be issued. By declaring a check stale, the Association is not relinquishing its obligation to the payee.
 
+### 5.10 Scholarships
+
+The Association may offer scholarships to members to attend RMASFAA Summer Institute.  The Executive Board will determine the number and amount of scholarship each year.  Traditionally one Minority Scholarship and one general scholarship will be awarded each year to cover the early bird rate of the institute registration fee.
+ 
+Mick Hanson Professional Development Scholarship: When funds are available, this $500 scholarship will be awarded to a mentee or mentor who has been accepted into the RMASFAA Leadership Pipeline. Recipients of the scholarship are required to be a MASFAA and a RMASFAA member. This scholarship will be used to help offset costs related to the RMASFAA Fall Conference (conference fee, lodging, and travel expenses). Selection of the recipient will reside with the MASFAA Executive Board.
+
 ## 6. Conference Guidelines
 
 In addition to the NASFAA conference planning guide the following will be used to help the Conference Planning Committee with planning of the annual conference.
 
 ### 6.1 Site and Date Selection
 
-The site and dates of the annual conference will be determined two years prior to that conference so that appropriate time is allowed for determining a site chair, booking a conference facility and getting the MASFAA conference on the RMASFAA calendar. In order to maximize attendance of out-of-state professionals, every effort should be made to schedule the MASFAA conference without conflicting with any other RMASFAA states conferences. The Board should obtain the most current RMASFAA calendar before selecting conference dates. In order to accommodate members limited travel budgets, the Board will schedule the MASFAA annual conference in conjunction with Department of Education training and, when offered, RMASFAA Decentralized training. Although any appropriate site in the state may be selected for the annual conference, the Board has set the following tentative order of state conference sites.
+The site and dates of the annual conference will be determined one year prior to that conference so that appropriate time is allowed for determining a site chair, booking a conference facility and getting the MASFAA conference on the RMASFAA calendar. In order to maximize attendance of out-of-state professionals, every effort should be made to schedule the MASFAA conference without conflicting with any other RMASFAA states conferences. The Board should obtain the most current RMASFAA calendar before selecting conference dates. In order to accommodate members limited travel budgets, the Board will schedule the MASFAA annual conference in conjunction with Department of Education training and, when offered, RMASFAA Decentralized training. Although any appropriate site in the state may be selected for the annual conference, the Board has set the following tentative order of state conference sites.
 
 * Butte
 * Helena
@@ -430,7 +415,7 @@ The site and dates of the annual conference will be determined two years prior t
 
 The theme shall be decided by the site committee. The conference committee will make all decisions about the agenda. The committee, within the following guidelines, will establish the timetable for the conference planning. The President-Elect will be responsible for keeping the committee within this timetable.
 
-* Site selected At least two years prior
+* Site selected At least one year prior
 * Site Chair selected At least one year prior
 * Facility booked At least one year prior
 * Theme and agenda set At least three months prior

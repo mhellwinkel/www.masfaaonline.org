@@ -11,11 +11,12 @@ description: Governance information for MASFAA
 
 ## Executive Board
 
-**President**                | Kelli Engelhardt | University of Great Falls
-**President-Elect**          | Emily Williamson | Montana State University-Billings
-**Past-President**           | Tina Wagner      | Carroll College
-**Vice President/Secretary** | Julie Watson     | Montana State University
+**President**                | Emily Williamson | Montana State University-Billings
+**President-Elect**          | Cindy Kiefer     | Flathead Valley Community College 
+**Past-President**           | Kelli Engelhardt | University of Great Falls
+**Vice President/Secretary** | Wes Feist        | Helena College
 **Treasurer**                | Sandy Johnsrud   | Montana State University-Northern
+**Member-at-Large**          | Diane Llewellyn  | University of Montana
 **Member-at-Large**          | Rita Larby       | Montana State University
 **Member-at-Large**          | Alexa Freeburg   | Health Works Institute
 **Associate Member**         | Roxy Jacobson    | Bank of North Dakota
