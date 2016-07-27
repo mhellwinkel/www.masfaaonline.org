@@ -29,7 +29,7 @@ Most of the pages on this site are written in Markdown (files ending in `.md`). 
 
 ## Search
 
-[Site search](http://www.reachhighermontana.org/search) is a **paid** [Google Custom Search Engine](https://cse.google.com/cse/). If there are problems with pages missing from site search log in to CSE to and request re-indexing via the [sitemap](http://www.masfaaonline.org/sitemap.xml).
+[Site search](http://www.masfaaonline.org/search) is a **paid** [Google Custom Search Engine](https://cse.google.com/cse/). If there are problems with pages missing from site search log in to CSE to and request re-indexing via the [sitemap](http://www.masfaaonline.org/sitemap.xml).
 
 [Search engine appearance](https://www.google.com/?gws_rd=ssl#q=site:www.masfaaonline.org) can be monitored and administered via [Google Webmaster Tools](https://www.google.com/webmasters/). Remember to keep [robots.txt](robots.txt) updated for pages that should not be indexed.
 
