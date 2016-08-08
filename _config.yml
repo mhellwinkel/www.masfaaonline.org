@@ -6,11 +6,12 @@ gems:
   - jekyll-seo-tag
 
 # Build settings
-markdown: kramdown
-timezone: US/Mountain
-
 kramdown:
+  input: GFM
+  hard_wrap: true
   toc_levels: "2"
+
+timezone: US/Mountain
 
 # modify version numbers below when upgrading bootstrap
 # only the assets directory is needed from the bootstrap-sass download

@@ -18,9 +18,9 @@ The Association serves as the State forum and acts as the focus for the expressi
 
 Reserve your room in the MASFAA room block today! **Deadline to reserve is March 5, 2016.**
 
-[**Big Horn Resort**](http://thebighornresort.com/)  
-1801 Majestic Lane, Billings, MT 59102  
-406-839-9300  
+[**Big Horn Resort**](http://thebighornresort.com/)
+1801 Majestic Lane, Billings, MT 59102
+406-839-9300
 Rooms offered at state rate.
 
 ---
