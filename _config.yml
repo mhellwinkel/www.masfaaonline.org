@@ -1,11 +1,22 @@
+# Site settings
 title: "MASFAA"
 description: The Montana Association of Student Financial Aid Administrators (MASFAA) is an organization serving the needs of students, institutions of higher education, government agencies, and private funding sources through the coordination of plans and programs for student financial aid.
 
+# https://github.com/benbalter/jekyll-seo-tag#usage
+logo: icons/apple-touch-icon-180x180.png
+
+# modify version numbers below when upgrading bootstrap
+# only the assets directory is needed from the bootstrap-sass download
+bootstrap-sass: bootstrap-sass-3.3.6
+sass:
+    sass_dir: /bootstrap-sass-3.3.6/assets/stylesheets
+    style: :compressed
+
+# Build settings
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# Build settings
 kramdown:
   input: GFM
   hard_wrap: true
@@ -13,15 +24,7 @@ kramdown:
 
 timezone: US/Mountain
 
-# modify version numbers below when upgrading bootstrap
-# only the assets directory is needed from the bootstrap-sass download
-bootstrap-sass: bootstrap-sass-3.3.5
-sass:
-    sass_dir: /bootstrap-sass-3.3.5/assets/stylesheets
-    style: :compressed
-
 exclude:
-  - vendor
   - .rspec
   - .ruby-version
   - circle.yml
@@ -31,3 +34,4 @@ exclude:
   - Rakefile
   - README.md
   - spec
+  - vendor
