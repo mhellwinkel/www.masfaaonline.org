@@ -7,9 +7,9 @@ logo: icons/apple-touch-icon-180x180.png
 
 # modify version numbers below when upgrading bootstrap
 # only the assets directory is needed from the bootstrap-sass download
-bootstrap-sass: bootstrap-sass-3.3.6
+bootstrap-sass: bootstrap-sass-3.3.7
 sass:
-    sass_dir: /bootstrap-sass-3.3.6/assets/stylesheets
+    sass_dir: /bootstrap-sass-3.3.7/assets/stylesheets
     style: :compressed
 
 # Build settings
