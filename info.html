@@ -17,7 +17,7 @@ extras:
 <ol class="site-pages">
   {% assign pages = site.pages | sort: "url" %}
   {% for p in pages %}
-  {% if p.layout | length > 0 %}
+  {% if p.layout %}
     <li>
       <a href="{{ site.github.url | append: p.url }}">{{ site.github.url | append: p.url }}</a>
       <dl class="dl-horizontal">
