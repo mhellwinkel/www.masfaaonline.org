@@ -67,7 +67,7 @@ Start Jekyll server:
 
 Edit and view changes at http://localhost:4000/
 
-Push to the `gh-pages` branch to deploy to production.
+Push to the `master` branch to deploy to production.
 
 Run tests:
 
