@@ -34,6 +34,7 @@ describe 'Web site' do
         :cache => { :timeframe => '1h' },
         :file_ignore => [ "_site/info.html" ],
         :url_ignore => [
+          /localhost/,
           /mappingyourfuture.org/,
           /mygreatlakes.org/
         ]

@@ -1,6 +1,8 @@
 # Site settings
 title: "MASFAA"
 description: The Montana Association of Student Financial Aid Administrators (MASFAA) is an organization serving the needs of students, institutions of higher education, government agencies, and private funding sources through the coordination of plans and programs for student financial aid.
+github:
+  url: http://localhost:4000
 
 # https://github.com/benbalter/jekyll-seo-tag#usage
 logo: icons/apple-touch-icon-180x180.png
