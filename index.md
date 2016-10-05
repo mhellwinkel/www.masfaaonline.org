@@ -11,17 +11,9 @@ In addition, **MASFAA** assists with communications between institutions of post
 
 The Association serves as the State forum and acts as the focus for the expression of views on matters relating to the development, funding and administration of student financial aid at the state, regional and national levels.
 
-## MASFAA 2016 Conference, Billings, April 6-8
-[**View the agenda.**](documents/downloads/files/MASFAA_2016_Agenda.pdf)
+## MASFAA 2017 Conference, Missoula, April 19-21
 
-[**Registration is now open.**](documents/downloads/files/MASFAA-Conference-Registration-Form.docx) Conference Registration: $99 if registered by March 15, 2016.
-
-Reserve your room in the MASFAA room block today! **Deadline to reserve is March 5, 2016.**
-
-[**Big Horn Resort**](http://thebighornresort.com/)
-1801 Majestic Lane, Billings, MT 59102
-406-839-9300
-Rooms offered at state rate.
+Information coming soon!
 
 ---
 
