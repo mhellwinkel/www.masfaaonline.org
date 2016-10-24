@@ -1,0 +1,4 @@
+# this should be the default locally when https://github.com/jekyll/github-metadata/pull/50 is released
+# but that doesn't seem to work: https://github.com/jekyll/github-metadata/issues/47
+github:
+  url: http://localhost:4000
