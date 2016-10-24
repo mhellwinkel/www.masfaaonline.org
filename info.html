@@ -21,8 +21,10 @@ extras:
     <li>
       <a href="{{ site.github.url | append: p.url }}">{{ site.github.url | append: p.url }}</a>
       <dl class="dl-horizontal">
-        <dt>Edit</dt>
-        <dd><a href="{{ site.github.repository_url }}/blob/{{ page.branch }}/{{ p.path }}">View on GitHub</a></dd>
+        {% if site.github.repository_url %}
+          <dt>Edit</dt>
+          <dd><a href="{{ site.github.repository_url }}/blob/{{ page.branch }}/{{ p.path }}">View on GitHub</a></dd>
+        {% endif %}
         <dt><code>title:</code></dt>
         <dd><b>{% if p.title %}{{ p.title }}{% else %}{{ site.title }}{% endif %}</b></dd>
         <dt><code>description:</code></dt>
@@ -82,5 +84,5 @@ site.github.url: {{ site.github.url }}
 site.github.repository_url: {{ site.github.repository_url }}
 site.github.releases: {{ site.github.releases }}
 site.github.versions:
-{% for item in site.github.versions %}  - {{ item[0] }}: {{ item[1] }}<br>{% endfor %}
+{% if site.github.versions %}{% assign versions = site.github.versions | sort %}{% for item in versions %}  - {{ item[0] }}: {{ item[1] }}<br>{% endfor %}{% endif %}
 </pre>
