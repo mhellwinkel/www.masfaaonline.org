@@ -43,7 +43,7 @@ Hosted with [Github Pages](https://pages.github.com/) as a [Project Page](https:
 - [![Circle CI](https://img.shields.io/circleci/project/mhesac/www.masfaaonline.org.svg)](https://circleci.com/gh/mhesac/www.masfaaonline.org)
 - [Slack](https://safmt.slack.com/messages/ghpages/)
 
-### How to Work Locally
+### How to Work Locally on Linux/MacOS
 
 * [Install rbenv](https://github.com/rbenv/rbenv#installation)
 * [Install ruby-build](https://github.com/rbenv/ruby-build#installation)
