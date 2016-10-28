@@ -20,6 +20,7 @@ describe 'Web site' do
         :disable_external => true,
         :assume_extension => true,
         :check_favicon => true,
+        :check_opengraph => true,
         :url_ignore => [/blob/]
       }
     ).run
