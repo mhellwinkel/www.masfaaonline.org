@@ -31,7 +31,7 @@ Most of the pages on this site are written in Markdown (files ending in `.md`). 
 
 [Site search](http://www.masfaaonline.org/search) is a **paid** [Google Custom Search Engine](https://cse.google.com/cse/). If there are problems with pages missing from site search log in to CSE to and request re-indexing via the [sitemap](http://www.masfaaonline.org/sitemap.xml).
 
-[Search engine appearance](https://www.google.com/?gws_rd=ssl#q=site:www.masfaaonline.org) can be monitored and administered via [Google Webmaster Tools](https://www.google.com/webmasters/). Use [robots.txt](robots.txt) to indicate pages that should not be indexed.
+[Search engine appearance](https://www.google.com/?gws_rd=ssl#q=site:www.masfaaonline.org) can be monitored and administered via [Google Webmaster Tools](https://www.google.com/webmasters/). Use [robots.txt]((http://www.masfaaonline.org/robots.txt) to indicate pages that should not be indexed.
 
 ## Hosting and DNS
 
