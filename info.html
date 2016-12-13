@@ -26,9 +26,9 @@ extras:
           <dd><a href="{{ site.github.repository_url }}/blob/{{ page.branch }}/{{ p.path }}">View on GitHub</a></dd>
         {% endif %}
         <dt><code>title:</code></dt>
-        <dd><b>{% if p.title %}{{ p.title }}{% else %}{{ site.title }}{% endif %}</b></dd>
+        <dd><b>{{ p.title | default: site.title }}</b></dd>
         <dt><code>description:</code></dt>
-        <dd>{% if p.description %}{{ p.description }}{% else %}{{ site.description }}{% endif %}</dd>
+        <dd>{{ p.description | default: site.description }}</dd>
         {% for e in page.extras %}
           {% if p[e] %}
             <dt><code>{{ e }}:</code></dt>
@@ -67,7 +67,7 @@ extras:
     {% assign pages = layout.items | sort: "url" %}
     <ol>
       {% for p in pages %}
-        <li><a href="{{ site.github.url | append: p.url }}">{{ site.github.url | append: p.url }}</a> - {% if p.title %}{{ p.title }}{% else %}{{ site.title }}{% endif %}</li>
+        <li><a href="{{ site.github.url | append: p.url }}">{{ site.github.url | append: p.url }}</a> - {{ p.title | default: site.title }}</li>
       {% endfor %}
     </ol>
   {% endif %}
