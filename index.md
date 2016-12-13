@@ -1,8 +1,6 @@
 ---
 layout: home
 title: Welcome
-redirect_from:
-  - /calendar
 ---
 
 The **Montana Association of Student Financial Aid Administrators (MASFAA)** is an organization serving the needs of students, institutions of higher education, government agencies, and private funding sources through the coordination of plans and programs for student financial aid.
