@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: home
 title: Welcome
 redirect_from:
   - /calendar
@@ -16,54 +16,3 @@ The Association serves as the State forum and acts as the focus for the expressi
 Information coming soon!
 
 ---
-
-<div class="col-md-12">
-  <div class="row">
-
-    <div class="col-md-6">
-      <p>
-        <img src="/images/masfaa.jpg" class="img-responsive center-block" alt="MASFAA"/>
-      </p>
-      <p>
-        <a href="http://www.nasfaa.org/university" target="_blank">
-          <img src="/images/nasfaa_u_chart.jpg" class="img-responsive center-block" alt="NASFAA"/>
-        </a>
-      </p>
-    </div>
-
-    <div class="col-md-6">
-
-      <div class="row">
-        <div class="col-md-12 text-center" style="height: 240px;">
-          <h4>Supporting These Schools:</h4>
-          <div class="carousel slide" data-ride="carousel" data-interval="2000">
-            <div class="carousel-inner" role="listbox">
-              <div class="item active"><img class="img-responsive center-block" src="/images/rotate/carrollCollege.jpg" alt="Carroll College"/></div>
-              <div class="item"><img class="img-responsive center-block" src="/images/rotate/Dawson-CC.gif" alt="Dawson CC"/></div>
-              <div class="item"><img class="img-responsive center-block" src="/images/rotate/FVCC.jpg" alt="FVCC"/></div>
-              <div class="item"><img class="img-responsive center-block" src="/images/rotate/healthworks.gif" alt="Health Works"/></div>
-              <div class="item"><img class="img-responsive center-block" src="/images/rotate/MilesCC.jpg" alt="Miles CC"/></div>
-              <div class="item"><img class="img-responsive center-block" src="/images/rotate/MCAN.png" alt="MCAN"/></div>
-              <div class="item"><img class="img-responsive center-block" src="/images/rotate/MSU-Billings.gif" alt="MSU Billings"/></div>
-              <div class="item"><img class="img-responsive center-block" src="/images/rotate/MSU-Bozeman.gif" alt="MSU Bozeman"/></div>
-              <div class="item"><img class="img-responsive center-block" src="/images/rotate/MSU-GF.jpg" alt="MSU GF"/></div>
-              <div class="item"><img class="img-responsive center-block" src="/images/rotate/MSU-N.gif" alt="MSU Northern"/></div>
-              <div class="item"><img class="img-responsive center-block" src="/images/rotate/MT-Tech.gif" alt="MT Tech"/></div>
-              <div class="item"><img class="img-responsive center-block" src="/images/rotate/RockyMountainCollege.jpg" alt="Rocky Mountain College"/></div>
-              <div class="item"><img class="img-responsive center-block" src="/images/rotate/UGF.jpg" alt="UGF"/></div>
-              <div class="item"><img class="img-responsive center-block" src="/images/rotate/UM-Missoula.gif" alt="UM Missoula"/></div>
-              <div class="item"><img class="img-responsive center-block" src="/images/rotate/UM-Western.gif" alt="UM Western"/></div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-md-12 text-center">
-          <h4>Corporate Sponsorship Provided by:</h4>
-          <img class="img-responsive center-block" src="/images/rotate/bank_of_north_dakota.png" alt="Bank of North Dakota"/>
-        </div>
-      </div>
-
-  </div>
-</div>
