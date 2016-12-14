@@ -11,11 +11,11 @@
       <td>
         {% for download in item.downloads %}
           {% if download contains '.pdf' %}
-            <a href="/downloads/files/{{ download | uri_escape }}" class="pdf">PDF</a>
+            <a href="downloads/{{ download | uri_escape }}" class="pdf">PDF</a>
           {% elsif download contains '.doc' %}
-            <a href="/downloads/files/{{ download | uri_escape }}" class="word">Word</a>
+            <a href="downloads/{{ download | uri_escape }}" class="word">Word</a>
           {% elsif download contains '.pptx' %}
-            <a href="/downloads/files/{{ download | uri_escape }}" class="ppt">PowerPoint</a>
+            <a href="downloads/{{ download | uri_escape }}" class="ppt">PowerPoint</a>
           {% endif %}
         {% endfor %}
       </td>
