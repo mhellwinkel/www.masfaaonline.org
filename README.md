@@ -6,6 +6,7 @@ MHESAC maintains a website for MASFAA, the Montana Association of Student Financ
 
 - [How to Update This Site](#how-to-update-this-site)
 - [How to Update Members and Institutions](#how-to-update-members-and-institutions)
+- [How to Update Downloads](#how-to-update-downloads)
 - [Markdown](#markdown)
 - [Search](#search)
 - [Hosting and DNS](#hosting-and-dns)
@@ -18,7 +19,39 @@ You can update most of the pages on the MASFAA site by editing them using the Gi
 
 ## How to Update Members and Institutions
 
-To update the [Institutions](http://www.masfaaonline.org/institutions/) and [Members](http://www.masfaaonline.org/members/) pages you need to edit data files rather than the pages themselves. The data files are in [_data](_data) and are in the CSV format. The order of institutions and members in the data file does not matter - they are sorted correctly when the pages are updated.
+To update the [Institutions](http://www.masfaaonline.org/institutions/) and [Members](http://www.masfaaonline.org/members/) pages you need to edit data files rather than the pages themselves. The data files are in [_data](_data) and are in CSV format.
+
+*The order of records in the data files does not matter. The items will be correctly sorted when displayed.*
+
+## How to Update Downloads
+
+Lists of downloads for files, history, minutes and NT4CM reports are stored in data files. To edit, upload the file(s) to the correct directory and then edit the corresponding data file.
+
+*The order of records in the data files is the order in which the files will be displayed.*
+
+### How to Update Files
+
+1. Add files to the [documents/downloads](documents/downloads) directory. The GitHub web interface allows you to upload files by dragging and dropping.
+
+2. Edit the [files data file](_data/files.yml). The file is in [YAML](https://github.com/planetjekyll/quickrefs/blob/master/YAML.md) format.
+
+### How to Update History
+
+1. Add history downloads to the [documents/downloads](documents/downloads) directory. The GitHub web interface allows you to upload files by dragging and dropping.
+
+2. Edit the [history data file](_data/history.yml). The file is in [YAML](https://github.com/planetjekyll/quickrefs/blob/master/YAML.md) format.
+
+### How to Update Minutes
+
+1. Add minutes to the [governance/downloads](governance/downloads) directory. The GitHub web interface allows you to upload files by dragging and dropping.
+
+2. Edit the [minutes data file](_data/minutes.yml). The file is in [YAML](https://github.com/planetjekyll/quickrefs/blob/master/YAML.md) format.
+
+### How to Update NT4CM Reports
+
+1. Add reports to the [governance/downloads](governance/downloads) directory. The GitHub web interface allows you to upload files by dragging and dropping.
+
+2. Edit the [reports data file](_data/reports.yml). The file is in [YAML](https://github.com/planetjekyll/quickrefs/blob/master/YAML.md) format.
 
 ## Markdown
 
@@ -29,7 +62,7 @@ Most of the pages on this site are written in Markdown (files ending in `.md`). 
 
 ## Search
 
-[Site search](http://www.masfaaonline.org/search) is a **paid** [Google Custom Search Engine](https://cse.google.com/cse/). If there are problems with pages missing from site search log in to CSE to and request re-indexing via the [sitemap](http://www.masfaaonline.org/sitemap.xml).
+[Site search](http://www.masfaaonline.org/search) is a **paid** [Google Custom Search Engine](https://cse.google.com/cse/). If there are problems with pages missing from site search log in to CSE to request re-indexing via the [sitemap](http://www.masfaaonline.org/sitemap.xml).
 
 [Search engine appearance](https://www.google.com/?gws_rd=ssl#q=site:www.masfaaonline.org) can be monitored and administered via [Google Webmaster Tools](https://www.google.com/webmasters/). Use [robots.txt]((http://www.masfaaonline.org/robots.txt) to indicate pages that should not be indexed.
 
