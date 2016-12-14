@@ -19,7 +19,7 @@ You can update most of the pages on the MASFAA site by editing them using the Gi
 
 ## How to Update Members and Institutions
 
-To update the [Institutions](http://www.masfaaonline.org/institutions/) and [Members](http://www.masfaaonline.org/members/) pages you need to edit data files rather than the pages themselves. The data files are in [_data](_data) and are in CSV format.
+To update the [Institutions](http://www.masfaaonline.org/institutions/) and [Members](http://www.masfaaonline.org/members/) pages you need to edit data files rather than the pages themselves. The data files are: [_data/institutions.csv](_data/institutions.csv) and [_data/members.csv](_data/members.csv) and are in CSV format.
 
 *The order of records in the data files does not matter. The items will be correctly sorted when displayed.*
 
@@ -49,7 +49,7 @@ Lists of downloads for files, history, minutes and NT4CM reports are stored in d
 
 ### How to Update NT4CM Reports
 
-1. Add reports to the [governance/downloads](governance/downloads) directory. The GitHub web interface allows you to upload files by dragging and dropping.
+1. Add reports to the [nt4cm/downloads](nt4cm/downloads) directory. The GitHub web interface allows you to upload files by dragging and dropping.
 
 2. Edit the [reports data file](_data/reports.yml). The file is in [YAML](https://github.com/planetjekyll/quickrefs/blob/master/YAML.md) format.
 
