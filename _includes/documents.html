@@ -1,0 +1,24 @@
+<table class="documents-tables">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Download</th>
+    </tr>
+  </thead>
+  {% for item in include.documents %}
+    <tr>
+      <td>{{ item.name }}</td>
+      <td>
+        {% for download in item.downloads %}
+          {% if download contains '.pdf' %}
+            <a href="/downloads/files/{{ download | uri_escape }}" class="pdf">PDF</a>
+          {% elsif download contains '.doc' %}
+            <a href="/downloads/files/{{ download | uri_escape }}" class="word">Word</a>
+          {% elsif download contains '.pptx' %}
+            <a href="/downloads/files/{{ download | uri_escape }}" class="ppt">PowerPoint</a>
+          {% endif %}
+        {% endfor %}
+      </td>
+    </tr>
+  {% endfor %}
+</table>

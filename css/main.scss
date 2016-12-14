@@ -29,8 +29,12 @@
 }
 
 /*and lines up the column widths between all tables on same page*/
-.documents-tables td:nth-child(2) {
-  width: 25%;
+.documents-tables {
+  th:nth-child(2),
+  td:nth-child(2) {
+    width: 25%;
+    text-align: center;
+  }
 }
 
 /*from http://getbootstrap.com/getting-started/#third-parties*/

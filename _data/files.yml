@@ -1,0 +1,77 @@
+- name: April 2016 Federal Update
+  downloads: 2016_Federal_Update-MASFAA.pdf
+
+- name: Calendars, Modules, and Title IV
+  downloads: Calendars_Modules_and_Title_IV-MASFAA_2016.pdf
+
+- name: RMASFAA's Best Practices
+  downloads: RMASFAA-best-practices.pptx
+
+- name: RMASFAA's Best Practices (Print Version)
+  downloads: Printable-RMASFAAs-Best-Practices.pdf
+
+- name: Communicating with 21st Century Students
+  downloads: Communicating-with-21st-Century-Students.pdf
+
+- name: Communicating with 21st Century Students (Resources)
+  downloads: Communicating-with-21st-Century-Students-Resources.pdf
+
+- name: April 2015 NASFAA Federal Update
+  downloads: NASFAA-Federal-Update-April.pptx
+
+- name: President's Project 2014-2015
+  downloads: tribal-college-outreach-presidents-project.pdf
+
+- name: Default Prevention Student Survey
+  downloads:
+    - student_survey.doc
+    - Default-Prevention-Student-Survey.pdf
+
+- name: "MASFAA Letterhead #1"
+  downloads:
+    - MASFAA_Letterhead_1.doc
+    - MASFAA_Letterhead_1.pdf
+
+- name: "MASFAA Letterhead #2"
+  downloads:
+    - MASFAA_Letterhead_2.docx
+    - MASFAA_Letterhead_2.pdf
+
+- name: "MASFAA Letterhead #3 (watermark)"
+  downloads:
+    - MASFAA_Watermark.docx
+    - MASFAA_Watermark.pdf
+
+- name: "New MASFAA Letterhead #4"
+  downloads: MASFAA_Letterhead_4.pdf
+
+- name: MASFAA Minority Scholarship Application for RMASFAA Summer Institute
+  downloads:
+    - MASFAA-Minority-Scholarship-Application.doc
+    - masfaaminorityscholarship.pdf
+
+- name: MASFAA Electronic Discussion Group
+  downloads:
+    - Masfaa-Listserv.doc
+    - MASFAAlistserv.pdf
+
+- name: 2016 Associate Membership Application
+  downloads: 2016-associate-membership-application.doc
+
+- name: 2016 Corporate Support Agreement
+  downloads: 2016-masfaa-corporate-support-agreement.docx
+
+- name: 2016 Institutional Membership Application
+  downloads: 2016-institutional-membership-application.doc
+
+- name: MASFAA Expense Reimbursement Form
+  downloads: Expense-Reimbursement-Form.docx
+
+- name: 2015-2016 MASFAA Presentation
+  downloads: masfaa-2015-2016.pptx
+
+- name: 2015-2016 Additional Slides for Financial Aid Nights Comprehensive
+  downloads: masfaa-2015-2016-additional.pptx
+
+- name: 2016-2017 Parent Night - What You Need to Know About Financial Aid
+  downloads: 2016-2017-SAF-Parent-Night.pptx
