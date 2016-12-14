@@ -6,19 +6,19 @@ permalink: /institutions/
 ---
 
 <p>
-    Below is a list of all current participating members.
+  Below is a list of all current participating members.
 </p>
 
 <table>
+  <tr>
+    <th>Name</th>
+    <th>Phone</th>
+  </tr>
+  {% assign institutions = site.data.institutions | sort: "name" %}
+  {% for inst in institutions %}
     <tr>
-        <th>Name</th>
-        <th>Phone</th>
+      <td><a href="{{ inst.link }}" target="_blank"> {{ inst.name }} </a></td>
+      <td>{{ inst.phone }}</td>
     </tr>
-    {% assign institutions = site.data.institutions | sort: "name" %}
-    {% for inst in institutions %}
-        <tr>
-            <td><a href="{{ inst.link }}" target="_blank"> {{ inst.name }} </a></td>
-            <td>{{ inst.phone }}</td>
-        </tr>
-    {% endfor %}
+  {% endfor %}
 </table>
