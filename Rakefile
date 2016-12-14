@@ -24,8 +24,7 @@ task :prune do
 
   data_files = []
 
-  # from YAMLs, get all values for these file keys
-  keys = ["downloads", "agenda", "summary", "form-990", "audit", "annual-report", "file"]
+  # from YAMLs, get all values for downloads key
   ymls = Rake::FileList["_data/*.yml"]
   ymls.each { |yml|
     file = YAML.load_file(yml)
