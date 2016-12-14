@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 title: Documents
 description: Documents
 ---

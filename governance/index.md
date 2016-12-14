@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 title: Governance
 description: Governance information for MASFAA
 ---

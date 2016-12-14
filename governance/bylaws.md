@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 title: By-Laws
 description: By-Laws
 permalink: /governance/bylaws/

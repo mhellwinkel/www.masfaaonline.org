@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 title: Policy and Procedures
 description: MASFAA Policy and Procedures
 permalink: /governance/policies/

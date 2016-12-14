@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 title: NT4CM
 description: National Training for Counselors and Mentors
 ---
