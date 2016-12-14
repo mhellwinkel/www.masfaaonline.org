@@ -16,6 +16,8 @@
             <a href="downloads/{{ download | uri_escape }}" class="word">Word</a>
           {% elsif download contains '.pptx' %}
             <a href="downloads/{{ download | uri_escape }}" class="ppt">PowerPoint</a>
+          {% elsif download contains '.xls' %}
+            <a href="downloads/{{ download | uri_escape }}" class="xslx">Excel</a>
           {% endif %}
         {% endfor %}
       </td>

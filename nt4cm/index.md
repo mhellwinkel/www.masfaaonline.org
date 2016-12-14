@@ -24,27 +24,4 @@ To see what trainings are upcoming and/or to sign up for a training please [clic
 
 ## Reports
 
-### 2014-2015
-
-Name                                                                    | Download
-:---------------------------------------------------------------------- | :------------------------------------------------------------:
-National Training for Counselors and Mentors (NT4CM) 2014-2015 Overview | [PDF](reports/NT4CM-1415-Overview.pdf){: .pdf}
-NT4CM Evaluation Summary for Feb 20, 2015                               | [Excel](reports/NT4CM-Evaluation-Summary-022015.xlsx){: .xslx}
-NT4CM Evaluation Text for Feb 20, 2015                                  | [Word](reports/NT4CM-Evaluation-Text-022015.docx){: .word}
-NT4CM Evaluation Summary for Oct 17, 2014                               | [Excel](reports/NT4CM-Evaluation-Summary-101714.xlsx){: .xslx}
-NT4CM Evaluation Text for Oct 17, 2014                                  | [Word](reports/NT4CM-Evaluation-Text-101714.docx){: .word}
-NT4CM Evaluation Summary for Oct 15, 2014                               | [Excel](reports/NT4CM-Evaluation-Summary-101615.xlsx){: .xslx}
-NT4CM Evaluation Summary for Oct 14, 2014                               | [Excel](reports/NT4CM-Evaluation-Summary-101614B.xlsx){: .xslx}
-NT4CM Evaluation Text for Oct 14, 2014                                  | [Word](reports/NT4CM-Evaluation-Text-101614B.docx){: .word}
-{: .documents-tables}
-
-### 2013-2014
-
-Name                                                                    | Download
-:---------------------------------------------------------------------- | :-------------------------------------------------------------------:
-National Training for Counselors and Mentors (NT4CM) 2013-2014 Overview | [Word](reports/NT4CM-1314-Overview.docx){: .word}
-NT4CM Evaluation Summary for Jan 7, 2014                                | [Excel](reports/NT4CM-Evaluation-Summary-010714.xlsx){: .xslx}
-NT4CM Evaluation Text for Jan 7, 2014                                   | [Word](reports/NT4CM-Evaluation-Text-010714.docx){: .word}
-NT4CM Evaluation Summary for Apr 30, 2014                               | [Excel](reports/NT4CM-Evaluation-Summary-043014.xlsx){: .xslx}
-NT4CM Evaluation Text for Apr 30, 2014                                  | [Word](reports/NT4CM-Evaluation-Text-043014.docx){: .word}
-{: .documents-tables}
+{% include documents.html documents = site.data.reports %}
