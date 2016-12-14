@@ -21,13 +21,13 @@ You can update most of the pages on the MASFAA site by editing them using the Gi
 
 To update the [Institutions](http://www.masfaaonline.org/institutions/) and [Members](http://www.masfaaonline.org/members/) pages you need to edit data files rather than the pages themselves. The data files are: [_data/institutions.csv](_data/institutions.csv) and [_data/members.csv](_data/members.csv) and are in CSV format.
 
-*The order of records in the data files does not matter. The items will be correctly sorted when displayed.*
+*The order of members and institutions in the data files does not matter. The items will be correctly sorted when displayed.*
 
 ## How to Update Downloads
 
 Lists of downloads for files, history, minutes and NT4CM reports are stored in data files. To edit, upload the file(s) to the correct directory and then edit the corresponding data file.
 
-*The order of records in the data files is the order in which the files will be displayed.*
+*For all downloads, the order of downloads in the data files is the order in which the downloads will be displayed.*
 
 ### How to Update Files
 
