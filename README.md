@@ -73,7 +73,7 @@ Hosted with [Github Pages](https://pages.github.com/) as a [Project Page](https:
 ## Developer Information
 
 - [Site Info](http://www.masfaaonline.org/info)
-- [![Circle CI](https://img.shields.io/circleci/project/mhesac/www.masfaaonline.org.svg)](https://circleci.com/gh/mhesac/www.masfaaonline.org)
+- [![CircleCI](https://circleci.com/gh/mhesac/www.masfaaonline.org.svg?style=svg)](https://circleci.com/gh/mhesac/www.masfaaonline.org)
 - [Slack](https://safmt.slack.com/messages/ghpages/)
 
 ### How to Work Locally on Linux/MacOS
