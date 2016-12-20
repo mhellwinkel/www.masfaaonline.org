@@ -5,12 +5,12 @@ task :default => [:serve]
 
 desc "Build site."
 task :build do
-  sh "bundle exec jekyll build --config _config.yml,_config.dev.yml"
+  sh "bundle exec jekyll build"
 end
 
 desc "Serve site."
 task :serve do
-  sh "bundle exec jekyll serve --config _config.yml,_config.dev.yml"
+  sh "bundle exec jekyll serve"
 end
 
 desc "Test site."

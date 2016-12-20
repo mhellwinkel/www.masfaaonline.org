@@ -19,7 +19,7 @@ extras:
   {% for p in pages %}
   {% if p.layout %}
     <li>
-      <a href="{{ site.github.url | append: p.url }}">{{ site.github.url | append: p.url }}</a>
+      <a href="{{ p.url | absolute_url }}">{{ p.url | absolute_url }}</a>
       <dl class="dl-horizontal">
         {% if site.github.repository_url %}
           <dt>Edit</dt>
@@ -35,7 +35,7 @@ extras:
             <dd>{{ p[e] }}</dd>
           {% endif %}
         {% endfor %}
-        {% assign link = site.github.url | append: p.url | cgi_escape %}
+        {% assign link = p.url | absolute_url %}
         <dt class="collapse dev-links">Social</dt>
         <dd class="collapse dev-links">
           <ul class="list-unstyled">
@@ -67,7 +67,7 @@ extras:
     {% assign pages = layout.items | sort: "url" %}
     <ol>
       {% for p in pages %}
-        <li><a href="{{ site.github.url | append: p.url }}">{{ site.github.url | append: p.url }}</a> - {{ p.title | default: site.title }}</li>
+        <li><a href="{{ p.url | absolute_url }}">{{ p.url | absolute_url }}</a> - {{ p.title | default: site.title }}</li>
       {% endfor %}
     </ol>
   {% endif %}
@@ -79,6 +79,8 @@ extras:
 site.time: {{ site.time }} {{ site.time | date: "%Z" }}
 jekyll.version: {{ jekyll.version }}
 jekyll.environment: {{ jekyll.environment }}
+site.url: {{ site.url }}
+site.baseurl: {{ site.baseurl }}
 site.github.pages_env: {{ site.github.pages_env }}
 site.github.url: {{ site.github.url }}
 site.github.repository_url: {{ site.github.repository_url }}

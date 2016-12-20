@@ -1,7 +1,7 @@
 ---
 # fake front matter so jekyll will process
 ---
-Sitemap: {{ site.github.url }}/sitemap.xml
+Sitemap: {{ "/sitemap.xml" | absolute_url }}
 
 User-agent: *
-Disallow: /info
+Disallow: /info/
