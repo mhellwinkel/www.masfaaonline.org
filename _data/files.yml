@@ -1,5 +1,8 @@
-- name: April 2016 Federal Update
-  downloads: 2016_Federal_Update-MASFAA.pdf
+- name: April 2017 Federal Update
+  downloads: 2017-Federal-Update-MASFAA-Handout.pdf
+
+- name: April 2017 Title IV Assorted Topics
+  downloads: 2017-Title-IV-Assorted Topics-MASFAA-Handout.pdf
 
 - name: Calendars, Modules, and Title IV
   downloads: Calendars_Modules_and_Title_IV-MASFAA_2016.pdf
@@ -15,9 +18,6 @@
 
 - name: Communicating with 21st Century Students (Resources)
   downloads: Communicating-with-21st-Century-Students-Resources.pdf
-
-- name: April 2015 NASFAA Federal Update
-  downloads: NASFAA-Federal-Update-April.pptx
 
 - name: President's Project 2014-2015
   downloads: tribal-college-outreach-presidents-project.pdf

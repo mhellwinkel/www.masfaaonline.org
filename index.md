@@ -16,6 +16,6 @@ The Association serves as the State forum and acts as the focus for the expressi
 | **Room Block** | MAF (MT Association of Financial Aid Administrators) <br> Single/Double Rate: $95 <br>   Triple Rate: $105 <br>   Quad Rate: $115 |
 | **Registration** | [Click here](documents/downloads/MASFAA%20conference%20registration%20for%202017%20Missoula.docx) for the Registration Form <br> Closes March 25, 2017 |
 | **Fees** | MASFAA Member: $105 <br> Non-Member: $115 |
-| **Agenda**| Coming Soon! |
+| **Agenda**| [Click here](documents/downloads/MASFAA-2017-Agenda-April-2017.docx) to download the Agenda. |
 
 ---
