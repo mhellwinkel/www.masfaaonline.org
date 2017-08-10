@@ -133,8 +133,9 @@ Section 3: The institutional members shall pay annual dues based on the unduplic
 * Enrollment 3000 to 4999, annual dues $115;
 * Enrollment 5000 to 7499, annual dues $145;
 * Enrollment 7500 and over, annual dues $175;
+*Fee increase was approved via a membership vote on 4/21/17 during the Business Meeting at the annual MASFAA conference.*
 
-Section 4: There shall be annual membership dues of $55 for each individual or organization who will participate as an Associate.
+Section 4: There shall be annual membership dues of $80 for each individual or organization who will participate as an Associate.
 
 Section 5: Payment of annual dues is to be made within 60 days after the beginning of the membership year. Any member who is in arrears in the payment of annual dues shall be considered not in good standing. Any active member not in good standing shall not be entitled to vote or hold office in the Association.
 
