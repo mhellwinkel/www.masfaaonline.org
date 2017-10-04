@@ -14,7 +14,7 @@ description: Governance information for MASFAA
 **President**                | Cindy Kiefer     | Flathead Valley Community College
 **President-Elect**          | Danielle Dinges  | Dawson Community College
 **Past-President**           | Emily Williamson | Montana State University – Billings
-**Vice President/Secretary** | Alice Brown      | Montana State University – Bozeman
+**Vice President/Secretary** | Julie Watson     | Montana State University – Bozeman
 **Treasurer**                | Emily Linn       | University of Great Falls
 **Member-at-Large**          | Diane Llewellyn  | University of Montana
 **Member-at-Large**          | Kent McGowan     | University of Montana
