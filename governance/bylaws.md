@@ -129,7 +129,7 @@ Section 2: Income shall be derived from membership dues and such other sources a
 Section 3: The institutional members shall pay annual dues based on the unduplicated number of students enrolled full-time and part-time at their institution for the preceding twelve (12) month period from July 1st to June 30th inclusive or as otherwise determined by the Executive Board as follows:
 
 * Enrollment under 999, annual dues $55;
-* Enrollment 1000 to 2000, annual dues $85;
+* Enrollment 1000 to 2999, annual dues $85;
 * Enrollment 3000 to 4999, annual dues $115;
 * Enrollment 5000 to 7499, annual dues $145;
 * Enrollment 7500 and over, annual dues $175;
