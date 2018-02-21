@@ -11,6 +11,10 @@ The Association serves as the State forum and acts as the focus for the expressi
 
 ## MASFAA 2018 Conference, Great Falls, March 21-23
 
-| Details coming soon! |
+
+| **Location** | Holiday Inn <br/> 1100 5th St. <br/> Great Falls, MT |
+| **Rooms Reservations** | Holiday Inn Great Falls 406-727-7200 Use Group Code; <br/> MASFAA Room Block Released March 9, 2018 |
+| **Registration** | [Click here](documents/downloads/MASFAA-2018-Conference-Registration.pdf) for the Registration Form |
+| **Agenda**| Coming Soon! |
 
 ---
