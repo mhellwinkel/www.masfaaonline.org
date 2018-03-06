@@ -15,7 +15,7 @@ description: Governance information for MASFAA
 **President-Elect**          | Danielle Dinges  | Dawson Community College
 **Past-President**           | Emily Williamson | Montana State University – Billings
 **Vice President/Secretary** | Julie Watson     | Montana State University – Bozeman
-**Treasurer**                | Emily Linn       | University of Great Falls
+**Treasurer**                | Emily Linn       | University of Providence
 **Member-at-Large**          | Diane Llewellyn  | University of Montana
 **Member-at-Large**          | Kent McGowan     | University of Montana
 **Associate Member**         | Mary Howard      | Reach Higher Montana
